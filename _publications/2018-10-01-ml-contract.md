@@ -1,7 +1,7 @@
 ---
 title: "On Enabling Machine Learning Tasks atop Public Blockchains: a Crowdsourcing Approach"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2018-10-01-ml-contract
 excerpt: 'We explore how to enable the machine learning subroutines in the smart contract by the methodology of crowdsourcing. 
 In game theory model, we design a protocol to allow the outsource/crowdsource a large class of machine learning programs.'
 date: 2018-10-01
