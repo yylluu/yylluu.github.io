@@ -12,4 +12,3 @@ We explore how to enable the machine learning subroutines in the smart contract 
 
 [Download paper here](https://ieeexplore.ieee.org/document/8637413)
 
-Recommended citation: Yuan Lu, Qiang Tang, Guiling Wang. "On Enabling Machine Learning Tasks atop Public Blockchains: a Crowdsourcing Approach." <i>IEEE ICDMW 2018</i>.
