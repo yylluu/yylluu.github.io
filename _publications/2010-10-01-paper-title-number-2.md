@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "On Enabling Machine Learning Tasks atop Public Blockchains: a Crowdsourcing Approach"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'We explore how to enable the machine learning subroutines in the smart contract by the methodology of crowdsourcing.'
+date: 2018-10-01
+venue: 'IEEE ICDMW 2018'
+paperurl: 'https://ieeexplore.ieee.org/document/8637413'
+citation: 'Yuan Lu, Qiang Tang, Guiling Wang. &quot;On Enabling Machine Learning Tasks atop Public Blockchains.&quot; <i>IEEE ICDMW 2018</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We explore how to enable the machine learning subroutines in the smart contract by the methodology of crowdsourcing.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/8637413)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Yuan Lu, Qiang Tang, Guiling Wang. "On Enabling Machine Learning Tasks atop Public Blockchains: a Crowdsourcing Approach." <i>IEEE ICDMW 2018</i>.
