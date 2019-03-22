@@ -11,4 +11,3 @@ This is the first decentralized data crowdsourcing system that prevents the iden
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Yuan Lu, Qiang Tang, Guiling Wang. "ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain." Proc. IEEE ICDCS 2018.
