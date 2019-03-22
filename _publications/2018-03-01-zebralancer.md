@@ -1,7 +1,7 @@
 ---
 title: "ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain"
 collection: IEEE ICDCS 2018
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-03-01-zebralancer
 excerpt: 'This is the first decentralized data crowdsourcing system that prevents the identity breach and data leakage caused by the transparency of the blockchain. A novel anonymous-yet-accountable authentication scheme is invited to grant anonymity to users and prevent malicous ones from misusing the anonymity to double submit data.'
 date: 2018-03-02
 venue: 'IEEE ICDCS'
@@ -10,5 +10,5 @@ citation: 'Yuan Lu, Qiang Tang, Guiling Wang. (2009). &quot;ZebraLancer: Private
 ---
 This is the first decentralized data crowdsourcing system that prevents the identity breach and data leakage caused by the transparency of the blockchain. A novel anonymous-yet-accountable authentication scheme is invited to grant anonymity to users and prevent malicous ones from misusing the anonymity to double submit data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/zebralancer.pdf)
 
