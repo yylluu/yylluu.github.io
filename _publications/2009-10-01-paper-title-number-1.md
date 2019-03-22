@@ -7,7 +7,7 @@ date: 2018-03-02
 paperurl: 'https://ieeexplore.ieee.org/document/8416350'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is the first decentralized data crowdsourcing system that prevents the identity breach and data leakage caused by the transparency of the blockchain.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
