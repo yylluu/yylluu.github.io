@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Computer Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
