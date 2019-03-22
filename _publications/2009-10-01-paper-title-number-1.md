@@ -5,10 +5,10 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This is the first decentralized data crowdsourcing system that prevents the identity breach and data leakage caused by the transparency of the blockchain.'
 date: 2018-03-02
 paperurl: 'https://ieeexplore.ieee.org/document/8416350'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Yuan Lu, Qiang Tang, Guiling Wang. (2009). &quot;ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain.&quot; Proc. IEEE ICDCS 2018.'
 ---
 This is the first decentralized data crowdsourcing system that prevents the identity breach and data leakage caused by the transparency of the blockchain.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Yuan Lu, Qiang Tang, Guiling Wang. (2009). "ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain." IEEE ICDCS 2018.
+Recommended citation: Yuan Lu, Qiang Tang, Guiling Wang. "ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain." Proc. IEEE ICDCS 2018.
