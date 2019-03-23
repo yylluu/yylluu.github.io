@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠). 
 
-"HEAD": Blockchain, DApps and Applied Cryptography
+Blockchain, DApps and Applied Cryptography
 ======
 I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. 
 
@@ -18,7 +18,7 @@ Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) an
 
 
 
-"Commit" History: Where did I live and get educated?
+Where did I live?
 ======
 For the first eighteen years of my life, I lived in the town of Xiangyang (Simplified Chinese: 襄阳, or Traditional Chinese 襄陽), a quiet and modest city in the middle of China.
 
