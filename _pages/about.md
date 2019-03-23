@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠). 
 
-Blockchain, DApps and applied cryptography
+Research: blockchain and applied cryptography
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My research mainly studies how to decentralize the crowdsourcing of knowledge, computing power and bandwidth, usefully, efficiently and securely.
+I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My research mainly studies how to leverage (and/or) invite cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power and bandwidth, usefully, efficiently and securely.
 
 
 
