@@ -12,17 +12,13 @@ Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.o
 
 Blockchain, DApps and Applied Cryptography
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. 
-
-Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My research mainly studies how to decentralize the crowdsourcing of knowledge, computing power and bandwidth, usefully, efficiently and securely.
+I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My research mainly studies how to decentralize the crowdsourcing of knowledge, computing power and bandwidth, usefully, efficiently and securely.
 
 
 
 Where did I live?
 ======
-For the first eighteen years of my life, I lived in the town of [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang) (Simplified Chinese: 襄阳, or Traditional Chinese 襄陽), a quiet and modest city in the middle of China.
-
-Later, I moved to the beautiful city of Tianjin (Chinese: 天津) to take my higher educations. I received my B.Sc. degree in electrical engineering and B.Com. degree in Management in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014.
+For the first eighteen years of my life, I lived in the town of [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang) (Simplified Chinese: 襄阳, or Traditional Chinese 襄陽), a quiet and modest city in the middle of China. Later, I moved to the beautiful city of Tianjin (Chinese: 天津) to take my higher educations. I received my B.Sc. degree in electrical engineering and B.Com. degree in Management in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014.
 
 <!---
 
