@@ -12,7 +12,7 @@ Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.o
 
 Ph.D. Candidate in Blockchain and Applied Cryptography
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at NJIT](https://cs.njit.edu/). Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My research studies mainly target decentralized crowdsourcing of knowledge, computing power, bandwidth, and etc.
+I am currently a Ph.D. Candidate in [the Department of Computer Science at NJIT](https://cs.njit.edu/), Newark, New Jersey. Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My research studies mainly target decentralized crowdsourcing of knowledge, computing power, bandwidth, and etc.
 
 
 
