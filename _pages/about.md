@@ -22,7 +22,7 @@ For the first eighteen years of my life, I lived in the town of [Xiangyang](http
 
 Ethereum address
 ======
-My Ethereum address is 0xBEEF1Bed3677Fe070591074De013cD371B121027
+My [Ethereum](https://www.ethereum.org/) address is 0xBEEF1Bed3677Fe070591074De013cD371B121027
 
 <!---
 
