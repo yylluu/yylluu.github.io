@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. Candidate in the Department of Computer Science at NJIT. I received my B.Sc. degree in electrical engineering and B.Com. degree in Management in 2011, from Nankai University and Tianjin University, respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. Currently, I am working with Professor Guiling Wang and Professor Qiang Tang, with a focus on blockchain, decentralized applications, and applied cryptography.
+I am currently a Ph.D. Candidate in the Department of Computer Science at NJIT. I received my B.Sc. degree in electrical engineering and B.Com. degree in Management in 2011, from Nankai University and Tianjin University, respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. Currently, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography.
 
 [comment]: <> （
 A data-driven personal website
