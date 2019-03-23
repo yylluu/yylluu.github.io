@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠). 
+
+Ph.D. Candidate in Blockchain and Applied Cryptography
+======
 I am currently a Ph.D. Candidate in [the Department of Computer Science at NJIT](https://cs.njit.edu/). I received my B.Sc. degree in electrical engineering and B.Com. degree in Management in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University), respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. Currently, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography.
 
 <!---
