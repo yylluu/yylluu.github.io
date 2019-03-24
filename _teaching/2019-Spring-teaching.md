@@ -1,0 +1,11 @@
+---
+title: "ST: Blockchain Technologies and Applications"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "NJIT, Computer Science"
+date: 2015-09-01
+location: "Newark, New Jersey"
+---
+
+The course introduces the most recent advancements of blockchain and cryptocurrencies. The content includes: basic cryptograhpic primitives, Nakamoto consensus, Bitcoin scripts, Ethereum and smart contract, alternative consensus, privacy and anonymity in blockchain, sharding and off-chain payment channels. 
