@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Crowdsourcing atop Open Blockchain"
 collection: talks
-type: "Talk"
+type: "Invited Talk"
 permalink: /talks/2018-06-21-talk-zebralancer
 venue: "Data Assurance & Communication Security Research Center, Chinese Academy of Science"
 date: 2018-06-21
