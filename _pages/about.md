@@ -18,7 +18,7 @@ I am currently a Ph.D. Candidate in [the Department of Computer Science at New J
 
 Where did I live?
 ======
-For the first eighteen years of my life, I lived in the town of [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang) (Simplified Chinese: 襄阳, or Traditional Chinese 襄陽), a quiet and modest city in the middle of China. Later, I moved to the beautiful city of Tianjin (Chinese: 天津) to take my higher educations. I received my B.Sc. degree in electrical engineering and B.Com. degree in Management in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014.
+For the first eighteen years of my life, I lived in the town of [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang) (Simplified Chinese: 襄阳, or Traditional Chinese 襄陽), a quiet and modest city in the middle of China. Later, I moved to the beautiful city of Tianjin (Chinese: 天津) to take my higher educations. I received my B.Sc. degree in electrical engineering and B.B.A. degree in Business Administration in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014.
 
 Ethereum address
 ======
