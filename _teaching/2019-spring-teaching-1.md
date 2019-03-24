@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "NJIT, Computer Science"
-date: 2015-09-01
+date: 2019-02-01
 location: "Newark, New Jersey"
 ---
 
