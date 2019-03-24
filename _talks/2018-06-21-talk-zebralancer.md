@@ -8,6 +8,4 @@ date: 2018-06-21
 location: "Beijing, China"
 ---
 
-The decentralization property of blockchain technology has injected fresh blood into traditional Internet applications. I pointed out the problems encountered in the process of decentralizing crowdsourcing. The inherent problems are: the contradiction between the data privacy of crowdsourcing and the data transparency of blockchain, as well as the contradiction between the user accountability and the user anonymity. Furthermore, I gave the corresponding solutions based on zk-SNARK, common-prefix linkable anonymous authentication and other cryptography techniques.
-
-[Link](http://dacas.cn/thread.aspx?ID=3783)
+The decentralization property of blockchain technology has injected fresh blood into traditional Internet applications. I pointed out the problems encountered in the process of decentralizing crowdsourcing. The inherent problems are: the contradiction between the data privacy of crowdsourcing and the data transparency of blockchain, as well as the contradiction between the user accountability and the user anonymity. Furthermore, I gave the corresponding solutions based on zk-SNARK, common-prefix linkable anonymous authentication and other cryptography techniques. [Link](http://dacas.cn/thread.aspx?ID=3783)
