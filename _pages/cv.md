@@ -18,24 +18,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015 to present: Ph.D. Candidate
+  * New Jersey Institute of Technology
+  * Research: Blockchain, applied cryptograhpy, decentralized applications
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Blockchain
+* Cryptograhpy
+  * Zero-knowledge proofs
+  * Public key protocol design and security analysis
+* Programming
+  * Java
+  * Python
+  * C/C++
+  * Solidity
+* Miscellaneous
+  * Circuit compiling
+  * Network
+  * etc.
 
 Publications
 ======
