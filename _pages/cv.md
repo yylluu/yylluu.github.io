@@ -28,8 +28,8 @@ Skills
   * Decentralized application
   * Consensus design and analysis
 * Cryptograhpy
-  * Zero-knowledge proofs
-  * Public key protocol design and security analysis
+  * Public key cryptosystem design and security analysis
+  * Practical zero-knowledge proofs
 * Programming
   * Java
   * Python
