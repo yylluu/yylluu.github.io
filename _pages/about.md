@@ -11,7 +11,7 @@ redirect_from:
 Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠, which literally means *a long way to go*). 
 
 
-CS Ph.D. on-going
+CS Ph.D. on-going ...
 ======
 I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests are mainly among the areas of:
 * Blockchain
