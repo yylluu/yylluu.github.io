@@ -35,7 +35,7 @@ Skills
   * Solidity
 * Miscellaneous
   * Circuit compiling
-  * Network
+  * Peer-to-peer network
   * etc.
 
 Publications
