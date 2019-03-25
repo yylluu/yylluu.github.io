@@ -13,9 +13,10 @@ Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.o
 
 CS Ph.D. on-going
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests mainly cover:
+I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests are mainly among the areas of:
 * Blockchain
-* Applied cryptography. 
+* Distributed system
+* Applied cryptography
 
 In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for public key cryptosystems. My main studes are related to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
 
