@@ -20,7 +20,12 @@ Work experience
 ======
 * Fall 2015 to present: Ph.D. Candidate
   * New Jersey Institute of Technology
-  * Research: Blockchain, applied cryptograhpy, decentralized applications
+  * Research: blockchain, applied cryptograhpy, decentralized applications
+* Fall 2011 to Summer 2014: Master Research Assistant
+  * Nankai University
+  * Duty: deployment and maintance of high-performance computing clusters
+  * Supervisor: Prof. Tie-ge Zhou
+  
   
 Skills
 ======
