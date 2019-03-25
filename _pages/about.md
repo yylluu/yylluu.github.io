@@ -23,7 +23,7 @@ In greater detail, I am working with [Professor Guiling Wang](https://web.njit.e
 I serve as reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, system security, cryptocurrencies, and applied cryptography. The conferences I refered include: ACNS 2019, PKC 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IET Information Security, etc.
 
 
-Ethereum address?
+Ether address?
 ======
 My [Ethereum](https://www.ethereum.org/) address is 0xBEEF1Bed3677Fe070591074De013cD371B121027
 
