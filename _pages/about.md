@@ -12,19 +12,21 @@ Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.o
 
 Research?
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), and my research interests mainly cover:
+I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests mainly cover:
 * Blockchain
+
 and
+
 * Applied cryptography. 
 
-In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for public key cryptosystems. My main studies are related to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
+In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for public key cryptosystems. My main studes are related to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
 
 
 
 
-Academia communities?
+Other academic activities?
 ======
-I serve as reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, system security, and applied cryptography. The conferences I refered include: ACNS 2019, PKC 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IET Information Security, etc.
+I serve as reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, system security, cryptocurrencies, and applied cryptography. The conferences I refered include: ACNS 2019, PKC 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IET Information Security, etc.
 
 
 Ethereum address?
