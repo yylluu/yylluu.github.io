@@ -10,11 +10,15 @@ redirect_from:
 
 Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠, which literally means *a long way to go*). 
 
-Research: blockchain and applied cryptography
+Research?
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My main research interests are leveraging and/or inviting cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
+My focus is on blockchain and applied cryptography. I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/), Newark, New Jersey. Now, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain, decentralized applications, and applied cryptography. My main research interests are leveraging and/or inviting cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
 
 
+
+Communities?
+======
+I serve as reviewers for many ACM, IEEE and IACR conferences or journals. The conferences I refered include: ACNS 2019, PKC 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IET Information Security, etc.
 
 
 Ethereum address?
