@@ -34,15 +34,17 @@ Skills
   * Decentralized applications
   * Consensus design and analysis
 * Cryptograhpy
-  * Public key cryptosystem design and security analysis
   * Practical zero-knowledge proofs
+  * Public key cryptosystem design and security analysis
 * Programming
   * Java
   * Python
   * C/C++
   * Solidity
+  * Bitcoin scripts
+  * etc.
 * Miscellaneous
-  * Circuit compiling
+  * Compiling
   * Mobile application
   * etc.
 
