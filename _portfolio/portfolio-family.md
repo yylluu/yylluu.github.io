@@ -1,5 +1,5 @@
 ---
-title: "Ｍy lovely family (click to see more)"
+title: "Ｍy lovely family"
 permalink: /portfolio/portfolio-family
 excerpt: "<br/><img src='/images/1.jpg'> <img src='/images/4.jpg'> <img src='/images/12.jpg'> "
 collection: portfolio
