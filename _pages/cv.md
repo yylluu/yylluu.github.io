@@ -30,7 +30,8 @@ Work experience
 Skills
 ======
 * Blockchain
-  * Decentralized application
+  * Smart contract
+  * Decentralized applications
   * Consensus design and analysis
 * Cryptograhpy
   * Public key cryptosystem design and security analysis
