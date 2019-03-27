@@ -8,7 +8,7 @@ tags:
 
 $ gcd(a,n)=1 \Rightarrow a^{\varphi(n)} \equiv 1 \mod n$
 
-Preliminary
+Preliminary: Euler's totient function
 ======
 Defining $\varphi(n)$
 
