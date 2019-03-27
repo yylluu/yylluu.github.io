@@ -6,11 +6,11 @@ tags:
   - number theory
 ---
 
-$ gcd(a,p)=1 \wedge ax \equiv ay \mod p \Rightarrow x \equiv y \mod p$
+$ gcd(a,n)=1 \wedge ax \equiv ay \mod n \Rightarrow x \equiv y \mod n$
 
 Statement
 ======
-If $gcd(a,p)=1$ and $ax \equiv ay \mod p$, then we can assert that $x \equiv y \mod p$
+If $gcd(a,n)=1$ and $ax \equiv ay \mod n$, then we can assert that $x \equiv y \mod n$
 
 Prove 1
 ======
