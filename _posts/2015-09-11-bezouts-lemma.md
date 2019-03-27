@@ -8,11 +8,10 @@ tags:
 
 $gcd(a,b)=d$ $\Leftrightarrow$ $\exists x,y \in \mathbb{Z}, s.t., ax+by=d$
 
-Headings are cool
+Statement
+======
+Let a and b be integers with greatest common divisor d. Then, there exist integers x and y such that ax + by = d. More generally, the integers of the form ax + by are exactly the multiples of d.
+
+Proof
 ======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
