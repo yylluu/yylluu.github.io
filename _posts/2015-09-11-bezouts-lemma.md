@@ -1,5 +1,5 @@
 ---
-title: 'B\'ezout's Identity (B\'ezout's Lemma)'
+title: 'Bezout's Identity (Bezout's Lemma)'
 date: 2015-09-11
 permalink: /posts/2015/09/bezouts-lemma/
 tags:
