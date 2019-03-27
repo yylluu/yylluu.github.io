@@ -6,7 +6,7 @@ tags:
   - number theory
 ---
 
-$gcd(a,b)=d$ $\Leftrightarrow$ $\exists x,y \in \Z, s.t., ax+by=d$
+$gcd(a,b)=d$ $\Leftrightarrow$ $\exists x,y \in \mathbb{Z}, s.t., ax+by=d$
 
 Headings are cool
 ======
