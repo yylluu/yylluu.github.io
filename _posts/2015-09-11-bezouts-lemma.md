@@ -1,6 +1,6 @@
 ---
-title: 'B\'ezouts Lemma (Identity)'
-date: 2015-09-14
+title: 'Bezouts Lemma (Identity)'
+date: 2015-09-11
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - number theory
