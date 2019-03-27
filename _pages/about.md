@@ -11,7 +11,7 @@ redirect_from:
 Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠, which literally means *a long way to go*). 
 
 
-Computer Science Ph.D. on-going ...
+PhDing...
 ======
 I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests are mainly among the areas of:
 * Blockchain
@@ -23,7 +23,7 @@ In greater detail, I am working with [Professor Guiling Wang](https://web.njit.e
 I serve as reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. The conferences I refered include: ACNS 2019, PKC 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, ESORICS 2017, etc. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, ACM Computing Surveys, IET Information Security, etc.
 
 
-Ether address?
+Ethereum address?
 ======
 My [Ethereum](https://www.ethereum.org/) address is 0xBEEF1Bed3677Fe070591074De013cD371B121027
 
