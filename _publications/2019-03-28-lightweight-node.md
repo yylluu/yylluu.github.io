@@ -9,6 +9,5 @@ citation: 'Yuan Lu, Qiang Tang, Guiling Wang. &quot;Supporting Lightweight Nodes
 ---
 We for the first time give a systematic study on the lightweight nodes of permissionless blockchains, in the setting where full nodes and lightweight nodes are rational. Under such the game-theoretic model, we firstly design a light client protocol that is the extremely “cheap” (that means the cost of lightweight nodes to obtain a record in the blockchain is just a tiny constant) and “generic” (which indicates the protocol can be deployed in any blockchain supporting Turing-complete smart contracts). To analyze the security, we prove a particular refinement of Nash equilibrium can be realized: (1) for the full nodes who store the complete blockchain, their best strategy is always to faithfully relay the readings from the blockchain to the lightweight nodes; (2) for the lightweight nodes who rely on the full nodes to “read” the blockchain, their dominating strategy is always to pay the relaying nodes as promised. We design the protocols for one relaying node as well as for two non-colluding relays, the latter of which can be generalized to any n relays (n ≥ 2) as long as at most n − 1 relays collude.
 
-<!---
-[Download paper here](https://ieeexplore.ieee.org/document/8416350)
--->
+
+[Download paper here](https://maxilbert.github.io/files/2019-icdcs-light-client.pdf)
