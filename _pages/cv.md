@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, NJIT, 2020 (expected)
+* Master in Electrical Engineering, Nankai University, 2014
 * Bachelor in Electrical Engineering, Nankai University, 2011
 * Bachelor in Business Administration, Tianjin University, 2011
-* Master in Electrical Engineering, Nankai University, 2014
-* Ph.D in Computer Science, NJIT, 2020 (expected)
 
 Work experience
 ======
