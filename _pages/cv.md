@@ -62,9 +62,11 @@ Talks
 
 Peer reviews
 ======
-* Reviewer for conferences:
+* PC of conferences:
+  * PST 2020, etc. 
+* Reviewer of conferences:
   * ACNS 2019, PKC 2019, TrustCom 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, ESORICS 2017, INFOCOM 2017, etc. 
-* Reviewer for journals:
+* Reviewer of journals:
   * IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, etc.
 
 Teaching
