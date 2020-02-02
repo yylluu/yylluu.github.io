@@ -20,7 +20,7 @@ I am currently a Ph.D. Candidate in [the Department of Computer Science at New J
 
 In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for public key cryptosystems. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
 
-I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, etc. The conferences I served as PC member include: PST2020. The conferences I refered include: ACNS 2019, PKC 2019, TrustCom 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, ESORICS 2017, INFOCOM 2017, etc. 
+I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, etc. The conferences I served as PC member include: PST 2020, etc. The conferences I refered include: ACNS 2019, PKC 2019, TrustCom 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, ESORICS 2017, INFOCOM 2017, etc. 
 
 Ethereum address?
 ======
