@@ -33,7 +33,7 @@ The conferences I served as PC member include: PST 2020, etc.
 
 Selected publications
 ======
-Those appear in top venues as full/regular papers:
+Those appear in top/premier venues as full papers:
 
 - [c1] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited*. in Proc. of ACM PODC 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
