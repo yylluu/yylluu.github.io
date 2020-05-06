@@ -14,9 +14,9 @@ Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.o
 Research interests
 ======
 I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests are mainly among the areas of:
-* Blockchain techniques and applications
-* Security and privacy
-* Applied cryptography
+- Blockchain techniques and applications
+- Security and privacy
+- Applied cryptography
 
 In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for cryptograhpic protocols. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
 
@@ -33,9 +33,9 @@ The conferences I served as PC member include: PST 2020, etc.
 Selected Publications
 ======
 My selected peer-reviewd papers:
-* [c1] Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited. in Proc. of ACM PODC 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
-* [c2] Dragoon: Private Decentralized Human Intelligence Tasks Made Practical. in Proc. of IEEE ICDCS 2020. with Qiang Tang, Guiling Wang.
-* [c3] ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain. in Proc. of IEEE ICDCS 2018. with Qiang Tang, Guiling Wang.
+- [c1] Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited. in Proc. of ACM PODC 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+- [c2] Dragoon: Private Decentralized Human Intelligence Tasks Made Practical. in Proc. of IEEE ICDCS 2020. with Qiang Tang, Guiling Wang.
+- [c3] ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain. in Proc. of IEEE ICDCS 2018. with Qiang Tang, Guiling Wang.
 
 Ethereum address?
 ======
