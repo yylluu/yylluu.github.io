@@ -32,9 +32,10 @@ The conferences I served as PC member include: PST 2020, etc.
 
 Selected Publications
 ======
-[c1] Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited. in Proc. of ACM PODC 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
-[c2] Dragoon: Private Decentralized Human Intelligence Tasks Made Practical. in Proc. of IEEE ICDCS 2020. with Qiang Tang, Guiling Wang.
-[c3] ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain. in Proc. of IEEE ICDCS 2018. with Qiang Tang, Guiling Wang.
+My selected peer-reviewd papers:
+*[c1] Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited. in Proc. of ACM PODC 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+*[c2] Dragoon: Private Decentralized Human Intelligence Tasks Made Practical. in Proc. of IEEE ICDCS 2020. with Qiang Tang, Guiling Wang.
+*[c3] ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain. in Proc. of IEEE ICDCS 2018. with Qiang Tang, Guiling Wang.
 
 Ethereum address?
 ======
