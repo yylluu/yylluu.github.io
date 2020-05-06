@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠, which literally means *a long way to go*). 
+Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠, which literally means *a long way to go*). For the first eighteen years of my life, I lived in the town of [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang) (Simplified Chinese: 襄阳, or Traditional Chinese: 襄陽), a quiet and modest city in the middle of China. Later, I moved to the beautiful city of Tianjin (Chinese: 天津) to take my higher educations. I received my B.Sc. degree in electrical engineering and B.B.A. degree in Business Administration in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). 
+
 
 
 Research interests
 ======
-I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests are mainly among the areas of:
+My current research interests are mainly among the areas of:
 - Blockchain techniques and applications
 - Security and privacy
 - Applied cryptography
 
-In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for cryptograhpic protocols. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
+In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the sharing economy related to human knowledge, computing power, bandwidth and other resources, in an efficient yet still secure and robust way.
 
 Professional activities
 ======
@@ -44,10 +45,7 @@ My [Ethereum](https://www.ethereum.org/) address is 0xBEEF1Bed3677Fe070591074De0
 
 
 
-Where did I live?
-======
-For the first eighteen years of my life, I lived in the town of [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang) (Simplified Chinese: 襄阳, or Traditional Chinese: 襄陽), a quiet and modest city in the middle of China. Later, I moved to the beautiful city of Tianjin (Chinese: 天津) to take my higher educations. I received my B.Sc. degree in electrical engineering and B.B.A. degree in Business Administration in 2011, from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively. Later, I received my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014.
-
+ 
 <!---
 
 A data-driven personal website
