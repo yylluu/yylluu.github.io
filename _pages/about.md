@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "about me"
 excerpt: "Yuan Lu's Homepage"
 author_profile: true
 redirect_from: 
@@ -11,16 +11,30 @@ redirect_from:
 Hi, this is the homepage of Yuan Lu ([Simplified Chinese](https://en.wikipedia.org/wiki/Simplified_Chinese_characters): 路远, or [Traditional Chinese](https://en.wikipedia.org/wiki/Traditional_Chinese_characters): 路遠, which literally means *a long way to go*). 
 
 
-PhDing...
+Research interests
 ======
 I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/). My research interests are mainly among the areas of:
-* Blockchain
-* Distributed system
-* Provably secure DApps
+* Blockchain techniques and applications
+* Security and privacy
+* Applied cryptography
 
-In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for public key cryptosystems. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
+In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, practical zero-knowledge proofs, the design and analysis for cryptograhpic protocols. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the crowdsourcing of knowledge, computing power, bandwidth and other resources, in a useful, efficient and secure way.
 
-I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, etc. The conferences I served as PC member include: PST 2020, etc. The conferences I refered include: ACNS 2019, PKC 2019, TrustCom 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, ESORICS 2017, INFOCOM 2017, etc. 
+Professional activities
+======
+I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. 
+
+The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security,Journal of Parallel and Distributed Computing, etc. 
+
+The conferences I refered include: INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, Asiacrypt 2019/2018, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
+
+The conferences I served as PC member include: PST 2020, etc. 
+
+Selected Publications
+======
+[c1] Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited. in Proc. of ACM PODC 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+[c2] Dragoon: Private Decentralized Human Intelligence Tasks Made Practical. in Proc. of IEEE ICDCS 2020. with Qiang Tang, Guiling Wang.
+[c3] ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain. in Proc. of IEEE ICDCS 2018. with Qiang Tang, Guiling Wang.
 
 Ethereum address?
 ======
