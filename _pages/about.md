@@ -37,7 +37,7 @@ Those appear in flagship/premier venues as full papers:
 
 - [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited*. 
 
-     &nbsp;   in Proc. of ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+     {&nbsp;   }in Proc. of ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. 
 
