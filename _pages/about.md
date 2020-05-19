@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is the homepage of Yuan Lu (路远 or 路遠, which literally means *a long way to go*). Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang), I started to take my higher educations in the beautiful city of Tianjin, where I received my B.Sc. degree in electrical engineering and B.B.A. degree in Business Administration from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively in 2011. After another 3 years hard work, I obtained my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
+Hi, this is the homepage of Yuan Lu (路远 or 路遠, which literally means *a long way to go*). I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
 
 
 
@@ -47,8 +47,10 @@ Those appear in flagship/premier venues as full papers:
 
      &nbsp; &nbsp; &nbsp; in Proc. of IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
-Ethereum address?
+My personal trajectory
 ======
+Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang), I started my higher educations in the beautiful city of Tianjin, where I received my B.Sc. degree in electrical engineering and B.B.A. degree in business administration from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively in 2011. After another 3 years hard work, I obtained my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. 
+
 My [Ethereum](https://www.ethereum.org/) address is 0xBEEF1Bed3677Fe070591074De013cD371B121027
 
 
