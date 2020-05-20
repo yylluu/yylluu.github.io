@@ -19,7 +19,7 @@ My current research interests are mainly among the areas of:
 - Security and privacy  
 - Applied cryptography  
 
-In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols. For example, my Ph.D. thesis is to leverage and/or invent cryptographic primitives to decentralize the sharing economy related to human knowledge, computing power, bandwidth and other resources, in an efficient yet still secure and robust way.
+In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols.
 
 Selected publications
 ======
