@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is the homepage of Yuan Lu (路远 or 路遠, which literally means *a long way to go*). I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
+Hi, this is the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
 
 
 
@@ -25,13 +25,13 @@ Selected publications
 ======
 Those appear in flagship/premier venues as full papers:
 
-- [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited*. 
+- [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited*.  
      &nbsp; &nbsp; &nbsp; in Proc. of ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
-- [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. 
+- [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
      &nbsp; &nbsp; &nbsp; in Proc. of IEEE **ICDCS** 2020. with Qiang Tang, Guiling Wang.
 
-- [c1] *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. 
+- [c1] *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.  
      &nbsp; &nbsp; &nbsp; in Proc. of IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
