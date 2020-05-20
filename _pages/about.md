@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "Bio"
 excerpt: "Yuan Lu's Homepage"
 author_profile: true
 redirect_from: 
@@ -26,15 +26,12 @@ Selected publications
 Those appear in flagship/premier venues as full papers:
 
 - [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited*. 
-
      &nbsp; &nbsp; &nbsp; in Proc. of ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. 
-
      &nbsp; &nbsp; &nbsp; in Proc. of IEEE **ICDCS** 2020. with Qiang Tang, Guiling Wang.
 
 - [c1] *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. 
-
      &nbsp; &nbsp; &nbsp; in Proc. of IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
