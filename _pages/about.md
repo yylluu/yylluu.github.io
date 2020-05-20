@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
+Hi, welcome to the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
 
 
 
