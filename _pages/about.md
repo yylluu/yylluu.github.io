@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuan"
+title: "Me"
 excerpt: "Yuan Lu's Homepage"
 author_profile: true
 redirect_from: 
