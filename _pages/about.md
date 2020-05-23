@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Yuan"
+title: "Yuan"
 excerpt: "Yuan Lu's Homepage"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Hi, welcome to the homepage of Yuan Lu (simplifed Chinese 路远 or traditional 
 
 
 
-Research interests
+Research Interests
 ======
 My current research interests are mainly among the areas of:    
 - Blockchain techniques and applications  
@@ -21,7 +21,7 @@ My current research interests are mainly among the areas of:
 
 In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols.
 
-Selected publications
+Selected Publications
 ======
 Those appear in flagship/premier venues as full papers:
 
@@ -35,7 +35,7 @@ Those appear in flagship/premier venues as full papers:
      &nbsp; &nbsp; &nbsp; in Proc. of IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
-Professional activities
+Professional Activities
 ======
 I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. 
 
@@ -46,7 +46,7 @@ The conferences I refered include: INFOCOM 2020-2017, ESORICS 2020/2019/2017, As
 The conferences I served as PC member include: PST 2020, etc. 
 
 
-My personal trajectory
+My Personal Trajectory
 ======
 Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang), I started my higher educations in the beautiful city of Tianjin, where I received my B.Sc. degree in electrical engineering and B.B.A. degree in business administration from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively in 2011. After another 3 years' hard work, I obtained my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. 
 
