@@ -23,7 +23,7 @@ In greater detail, I am working with [Professor Guiling Wang](https://web.njit.e
 
 Selected Publications
 ======
-Those appear in flagship/premier venues as full papers:
+Those appear in flagship/premier computer science venues as full papers:
 
 - [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement Revisited*.  
      &nbsp; &nbsp; &nbsp; in Proc. of ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
@@ -39,7 +39,7 @@ Professional Activities
 ======
 I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. 
 
-The journals I refered include: IEEE TIFS, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
+The journals I refered include: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
 The conferences I refered include: INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, Asiacrypt 2019/2018, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
 
