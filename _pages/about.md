@@ -21,7 +21,7 @@ My current research interests are mainly among the areas of:
 
 In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols.
 
-Selected Publications
+Selected Papers
 ======
 Those appear in flagship/premier computer science venues as full papers:
 
@@ -37,7 +37,7 @@ Those appear in flagship/premier computer science venues as full papers:
 
 Professional Activities
 ======
-I serve as PC/referee for many ACM, IEEE and IACR venues that are related to distributed system, security, cryptocurrencies, and applied cryptography. 
+I serve as PC/referee for many ACM, IEEE and IACR venues that are related to distributed system, security, cryptocurrencies, and applied cryptography. In greater detail,
 
 **Journal referee**: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
