@@ -25,7 +25,7 @@ Selected Papers
 ======
 Those appear in flagship/premier computer science venues as full papers:
 
-- [c3] *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
+- [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
      &nbsp; &nbsp; &nbsp; in Proc. of ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
