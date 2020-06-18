@@ -37,16 +37,16 @@ Those appear in flagship/premier computer science venues as full papers:
 
 Professional Activities
 ======
-I serve as PC/reviewers for many ACM, IEEE and IACR conferences/journals that are related to distributed system, security, cryptocurrencies, and applied cryptography. 
+I serve as PC/referee for many ACM, IEEE and IACR venues that are related to distributed system, security, cryptocurrencies, and applied cryptography. 
 
-The journals I refered include: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
+**Journal referee**: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
-The conferences I refered include: INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, Asiacrypt 2019/2018, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
+**Conferences referee**: INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, Asiacrypt 2019/2018, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
 
-The conferences I served as PC member include: PST 2020, etc. 
+**Conferences PC**: PST 2020, etc. 
 
 
-My Personal Trajectory
+Personal Trajectory
 ======
 Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang), I started my higher educations in the beautiful city of Tianjin, where I received my B.Sc. degree in electrical engineering and B.B.A. degree in business administration from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively in 2011. After another 3 years' hard work, I obtained my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. 
 
