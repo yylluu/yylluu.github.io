@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Bio"
+title: "Biography"
 excerpt: "Yuan Lu's Homepage"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ My current research interests are mainly among the areas of:
 
 In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols.
 
-Selected Papers
+Selected Publications
 ======
 Those appear in flagship/premier computer science venues as full papers:
 
@@ -46,7 +46,7 @@ I serve as PC/referee for many ACM, IEEE and IACR venues that are related to dis
 - **PC for Conferences**: PST 2020, etc. 
 
 
-Personal Trajectory
+More Personal Trajectory
 ======
 Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang), I started my higher educations in the beautiful city of [Tianjin](https://en.wikipedia.org/wiki/Tianjin), where I received my B.Sc. degree in electrical engineering and B.B.A. degree in business administration from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively in 2011. After another 3 years' hard work, I obtained my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. 
 
