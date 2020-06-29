@@ -25,7 +25,7 @@ Selected Publications
 ======
 Those appear in flagship/premier computer science venues as full papers:
 
-- [c4] *Generic Superlight Client for Permissionless Blockchains*.
+- [c4] *Generic Superlight Client for Permissionless Blockchains*.  
      &nbsp; &nbsp; &nbsp; in Proc. of **ESORICS** 2020. with Qiang Tang, Guiling Wang.
 
 - [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
