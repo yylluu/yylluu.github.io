@@ -8,18 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I am currently a Ph.D. Candidate in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
+Hi, welcome to the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. degree in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
 
 
 
 Research Interests
 ======
-My current research interests are mainly among the areas of:    
-- Blockchain techniques and applications  
-- Security and privacy  
-- Applied cryptography  
-
-In greater detail, I am working with [Professor Guiling Wang](https://web.njit.edu/~gwang/) and [Professor Qiang Tang](https://web.njit.edu/~qiang/), with a focus on blockchain consensus, decentralized applications, and the design and analysis for cryptograhpic protocols.
+I currently have a broad spectrum of interests in blockchain's consensus, decentralized applications, and the design and analysis of cryptograhpic protocols.
 
 Selected Publications
 ======
@@ -46,7 +41,7 @@ I serve as PC/referee for many ACM, IEEE and IACR venues that are related to dis
 
 - **Referee for Conferences**: INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, Asiacrypt 2019/2018, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
 
-- **PC for Conferences**: PST 2020, etc. 
+- **PC for Conferences**: PST 2020, APKC 2021, etc. 
 
 
 More Personal Trajectory
