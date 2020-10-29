@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, NJIT, 2020 (expected)
+* Ph.D in Computer Science, NJIT, 2020
 * Master in Electrical Engineering, Nankai University, 2014
 * Bachelor in Electrical Engineering, Nankai University, 2011
 * Bachelor in Business Administration, Tianjin University, 2011
@@ -21,6 +21,7 @@ Work experience
 * Fall 2015 - present: Ph.D. Candidate
   * New Jersey Institute of Technology
   * Research: blockchain, applied cryptograhpy, decentralized applications
+  * Supervisor: Prof. Guiling Wang, Prof. Qiang Tang
 * Fall 2011 - Summer 2014: Master Research Assistant
   * Nankai University
   * Duty: deployment and maintance of high-performance computing clusters
@@ -63,7 +64,7 @@ Talks
 Peer reviews
 ======
 * PC of conferences:
-  * PST 2020, etc. 
+  * PST 2020, APKC 2021, etc. 
 * Reviewer of conferences:
   * ACNS 2019, PKC 2019, TrustCom 2019, Asiacrypt 2018, ACISP 2018, INFOCOM 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, ESORICS 2017, INFOCOM 2017, etc. 
 * Reviewer of journals:
