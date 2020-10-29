@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage of Yuan Lu"
 title_separator          : "-"
 name                     : &name "Yuan Lu"
-description              : &description "Ph.D. Candidate in Computer Science at New Jersey Institute of Technology"
+description              : &description "Research Specialist in Institute of Software Chinese Academy of Sciences"
 url                      : https://yylluu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "" #yylluu/yylluu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuan Lu"
   avatar           : "me.jpg"
-  bio              : "Ph.D. candidate in computer science at NJIT. Working on blockchain, cryptography, and DApps."
+  bio              : "Research Specialist in Institute of Software Chinese Academy of Sciences. Working on blockchain, cryptography, and DApps."
   location         : "New Jersey"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
