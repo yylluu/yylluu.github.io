@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. degree in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
+Hi, welcome to the homepage of Yuan Lu (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I am affliated with Institute of Software Chinese Academy of Sciences. I received my Ph.D. degree in [the Department of Computer Science at New Jersey Institute of Technology](https://cs.njit.edu/).
 
 
 
