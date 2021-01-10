@@ -18,7 +18,7 @@ I currently have a broad spectrum of interests in blockchain's consensus, decent
 
 Selected Publications
 ======
-Those appear in flagship and high-ranking computer science venues as full papers:
+Those appear in flagship and premier computer science venues as full papers:
 
 - [c4] *Generic Superlight Client for Permissionless Blockchains*.  
      &nbsp; &nbsp; &nbsp; in Proc. of **ESORICS** 2020. with Qiang Tang, Guiling Wang.
