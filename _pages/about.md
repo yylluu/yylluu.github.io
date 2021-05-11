@@ -20,10 +20,10 @@ Manuscripts:
 ======
 Recent preprints online:
 - [i2] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.
-     &nbsp; &nbsp; &nbsp; [ArXiv Preprint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
+     &nbsp; &nbsp; &nbsp; draft available at [arxiv eprint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
 - [i1] *Fair Peer-to-Peer Content Delivery via Blockchain*.
-     &nbsp; &nbsp; &nbsp; [ArXiv Preprint](https://arxiv.org/pdf/2102.04685.pdf). with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
+     &nbsp; &nbsp; &nbsp; draft available at [arxiv eprint](https://arxiv.org/pdf/2102.04685.pdf). with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 Selected Publications
 ======
