@@ -19,10 +19,10 @@ I currently have a broad spectrum of interests in blockchain's consensus, decent
 Manuscripts:
 ======
 Recent preprints online:
-- [preprint](https://arxiv.org/abs/2103.09425) *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.
+- [preprint] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.(https://arxiv.org/abs/2103.09425)
      &nbsp; &nbsp; &nbsp; Manuscript. with Zhenliang Lu, Qiang Tang.
 
-- [preprint](https://arxiv.org/pdf/2102.04685.pdf) *Fair Peer-to-Peer Content Delivery via Blockchain*.
+- [preprint] *Fair Peer-to-Peer Content Delivery via Blockchain*.(https://arxiv.org/pdf/2102.04685.pdf)
      &nbsp; &nbsp; &nbsp; Manuscript. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 Selected Publications
