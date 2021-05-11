@@ -16,7 +16,7 @@ Research Interests
 ======
 I currently have a broad spectrum of interests in blockchain's consensus, decentralized applications, and the design and analysis of cryptograhpic protocols.
 
-Preprints/Manuscripts:
+Manuscripts:
 ======
 
 - [preprint] [*Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*](https://arxiv.org/abs/2103.09425)
