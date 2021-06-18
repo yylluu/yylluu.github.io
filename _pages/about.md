@@ -16,8 +16,11 @@ Research Interests
 I currently have a broad spectrum of interests in blockchain's consensus, decentralized applications, and the design and analysis of cryptograhpic protocols, in particular, to solve the key issues preventing the blockchain from being widely used in practice. My recent impactful results (e.g., Dumbo protocols) were adopted by a few mainstreaming  blockchain platforms, and rated by mainstream mediums like Guangming Daily and Chinanews as the next-generation core technique for the blockchain infrastructure in China.
 
 
-Manuscripts:
+Manuscripts
 ======
+
+- [i3] *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
+     &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - [i2] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
