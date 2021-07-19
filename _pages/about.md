@@ -31,19 +31,19 @@ Selected Publications
 Those appear in flagship and premier computer science venues as full papers:
 
 - [c5] *Fair Peer-to-Peer Content Delivery via Blockchain*.  
-     &nbsp; &nbsp; &nbsp; **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
+     &nbsp; &nbsp; &nbsp; in **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 - [c4] *Generic Superlight Client for Permissionless Blockchains*.  
-     &nbsp; &nbsp; &nbsp; **ESORICS** 2020. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in **ESORICS** 2020. with Qiang Tang, Guiling Wang.
 
 - [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
-     &nbsp; &nbsp; &nbsp; ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
-     &nbsp; &nbsp; &nbsp; IEEE **ICDCS** 2020. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2020. with Qiang Tang, Guiling Wang.
 
 - [c1] *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.  
-     &nbsp; &nbsp; &nbsp; IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
 Professional Activities
