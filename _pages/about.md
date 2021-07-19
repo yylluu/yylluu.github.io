@@ -20,10 +20,10 @@ Manuscripts
 ======
 
 - [i2] *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
-     &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+     &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - [i1] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
-     &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
+     &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
 
 Selected Publications
