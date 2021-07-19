@@ -19,18 +19,19 @@ I currently have a broad spectrum of interests in blockchain's consensus, decent
 Manuscripts
 ======
 
-- [i3] *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
+- [i2] *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
      &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
-- [i2] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
+- [i1] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
-- [i1] *Fair Peer-to-Peer Content Delivery via Blockchain*.  
-     &nbsp; &nbsp; &nbsp; available at [ArXiv ePrint](https://arxiv.org/pdf/2102.04685.pdf). with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 Selected Publications
 ======
 Those appear in flagship and premier computer science venues as full papers:
+
+- [c5] *Fair Peer-to-Peer Content Delivery via Blockchain*.  
+     &nbsp; &nbsp; &nbsp; in Proc. of **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 - [c4] *Generic Superlight Client for Permissionless Blockchains*.  
      &nbsp; &nbsp; &nbsp; in Proc. of **ESORICS** 2020. with Qiang Tang, Guiling Wang.
