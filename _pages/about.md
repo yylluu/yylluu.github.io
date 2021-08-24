@@ -49,7 +49,7 @@ Those appear in flagship and premier computer science venues as full papers:
 Fundings
 ======
 
-- Asynchronous Byzantine-fault Tolerant Protocols for Blockchain. **NSFC**, **PI**, 2021-2023
+- Asynchronous Byzantine-Fault Tolerant Protocols for Blockchain. **NSFC**, **PI**, 2021-2023
 
 
 Awards
