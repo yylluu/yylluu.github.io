@@ -46,15 +46,13 @@ Those appear in flagship and premier computer science venues as full papers:
      &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
-
-
-Research Fundings
+Fundings
 ======
 
 - Asynchronous Byzantine-fault Tolerant Protocols for Blockchain. NSFC, PI, 2021-2023
 
 
-Academic Awards
+Awards
 ======
 
 - China National Scholarship, awared by the Minstry of Education of China
