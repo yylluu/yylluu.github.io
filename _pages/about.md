@@ -72,6 +72,11 @@ I serve as PC/referee for many ACM, IEEE and IACR venues that are related to dis
 - **PC for Conferences**: PST 2020, APKC 2021, etc. 
 
 
+Medium  Coverage
+======
+
+- Dumbo-MVBA was reported by many famous Chinese media including [CoinDesk中文网](http://www.coindeskchinese.com/#/article/4976), [光明日报](https://app.gmdaily.cn/as/opened/n/85ece7999ee2440391078c2b7c43d890), [科学网](http://news.sciencenet.cn/sbhtmlnews/2021/2/360847.shtm?id=360847), [中国新闻网](http://www.chinanews.com/gn/2021/02-08/9407601.shtml).
+
 
 More Personal Trajectory
 ======
