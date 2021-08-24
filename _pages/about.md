@@ -79,6 +79,8 @@ Medium Coverage
 - Dumbo-MVBA was reported widely by major media in China including [CoinDesk中文网](http://www.coindeskchinese.com/#/article/4976), [光明日报](https://app.gmdaily.cn/as/opened/n/85ece7999ee2440391078c2b7c43d890), [科学网](http://news.sciencenet.cn/sbhtmlnews/2021/2/360847.shtm?id=360847), [中国新闻网](http://www.chinanews.com/gn/2021/02-08/9407601.shtml).
 
 
+
+<!---
 More Personal Trajectory
 ======
 Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised in [Xiangyang](https://en.wikipedia.org/wiki/Xiangyang), I started my higher educations in the beautiful city of [Tianjin](https://en.wikipedia.org/wiki/Tianjin), where I received my B.Sc. degree in electrical engineering and B.B.A. degree in business administration from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University) and [Tianjin University](https://en.wikipedia.org/wiki/Tianjin_University) respectively in 2011. After another 3 years' hard work, I obtained my M.Eng. degree with highest honors in electrical engineering from Nankai University in 2014. 
@@ -86,9 +88,6 @@ Borned in [Pingdingshan](https://en.wikipedia.org/wiki/Pingdingshan) and raised 
 My [Ethereum](https://www.ethereum.org/) address is 0xBEEF1Bed3677Fe070591074De013cD371B121027
 
 
-
- 
-<!---
 
 A data-driven personal website
 ======
