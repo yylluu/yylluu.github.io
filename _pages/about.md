@@ -46,15 +46,6 @@ Those appear in flagship and premier computer science venues as full papers:
      &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
-Professional Activities
-======
-I serve as PC/referee for many ACM, IEEE and IACR venues that are related to distributed system, security, cryptocurrencies, and applied cryptography:
-
-- **Referee for Journals**: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
-
-- **Referee for Conferences**: ACM PODC 2021, USENIX Security 2021, ASIACRYPT 2021-2018, INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
-
-- **PC for Conferences**: PST 2020, APKC 2021, etc. 
 
 
 Research Fundings
@@ -69,6 +60,18 @@ Academic Awards
 - China National Scholarship, awared by the Minstry of Education of China
 
 - Joseph Leung Award for Best PhD Thesis, awared by CS deparment at NJIT  
+
+
+
+Professional Activities
+======
+I serve as PC/referee for many ACM, IEEE and IACR venues that are related to distributed system, security, cryptocurrencies, and applied cryptography:
+
+- **Referee for Journals**: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
+
+- **Referee for Conferences**: ACM PODC 2021, USENIX Security 2021, ASIACRYPT 2021-2018, INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
+
+- **PC for Conferences**: PST 2020, APKC 2021, etc. 
 
 
 
