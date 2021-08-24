@@ -68,7 +68,7 @@ Academic Awards
 
 - China National Scholarship, awared by the Minstry of Education of China
 
-- Joseph Leung Award for Best PhD Thesis, awared by the Deparment of Compuater Science at NJIT  
+- Joseph Leung Award for Best PhD Thesis, awared by CS deparment at NJIT  
 
 
 
