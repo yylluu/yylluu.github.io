@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I am affliated with Institute of Software Chinese Academy of Sciences.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology. Currenlty, I am affliated with Institute of Software Chinese Academy of Sciences.
 
 
 Research Interests
@@ -55,6 +55,21 @@ I serve as PC/referee for many ACM, IEEE and IACR venues that are related to dis
 - **Referee for Conferences**: ACM PODC 2021, USENIX Security 2021, ASIACRYPT 2021-2018, INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, ACNS 2019, PKC 2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
 
 - **PC for Conferences**: PST 2020, APKC 2021, etc. 
+
+
+Research Fundings
+======
+
+- Asynchronous Byzantine-fault Tolerant Protocols for Blockchain. NSFC, PI, 2021-2023
+
+
+Academic Awards
+======
+
+- China National Scholarship, awared by the Minstry of Education of China
+
+- Joseph Leung Award for Best PhD Thesis, awared by the Deparment of Compuater Science at NJIT  
+
 
 
 More Personal Trajectory
