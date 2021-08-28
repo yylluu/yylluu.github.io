@@ -64,7 +64,7 @@ Research Fundings
 - Asynchronous Byzantine-Fault Tolerant Protocols for Blockchain. **NSFC**, **PI**, 2021-2023
 
 
-Awards & Honors
+Awards and Honors
 ======
 
 - Joseph Leung Award for Best PhD Thesis. awared by CS deparment at NJIT 
