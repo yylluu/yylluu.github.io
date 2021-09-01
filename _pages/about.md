@@ -18,29 +18,29 @@ I currently have a broad spectrum of interests in blockchain's consensus, decent
 Manuscripts
 ======
 
-- [i2] *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
+- *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
      &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
-- [i1] *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
+- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
 
 Selected Publications
 ======
 
-- [c5] *Fair Peer-to-Peer Content Delivery via Blockchain*.  
+- *Fair Peer-to-Peer Content Delivery via Blockchain*.  
      &nbsp; &nbsp; &nbsp; in **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
-- [c4] *Generic Superlight Client for Permissionless Blockchains*.  
+- *Generic Superlight Client for Permissionless Blockchains*.  
      &nbsp; &nbsp; &nbsp; in **ESORICS** 2020. with Qiang Tang, Guiling Wang.
 
-- [c3] *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
+- *Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
      &nbsp; &nbsp; &nbsp; in ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
-- [c2] *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
+- *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
      &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2020. with Qiang Tang, Guiling Wang.
 
-- [c1] *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.  
+- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.  
      &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
