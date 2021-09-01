@@ -27,7 +27,6 @@ Manuscripts
 
 Selected Publications
 ======
-Those appear in flagship and premier computer science venues as full papers:
 
 - [c5] *Fair Peer-to-Peer Content Delivery via Blockchain*.  
      &nbsp; &nbsp; &nbsp; in **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
@@ -49,7 +48,6 @@ Those appear in flagship and premier computer science venues as full papers:
 
 Professional Activities
 ======
-I serve as PC/referee for many ACM, IEEE and IACR venues that are related to distributed system, security, cryptocurrencies, and applied cryptography:
 
 - **Referee for Journals**: IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
