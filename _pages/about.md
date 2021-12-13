@@ -12,7 +12,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or tradi
 
 Research Interests
 ======
-I currently have a broad spectrum of interests in blockchain's consensus, decentralized applications, and the design and analysis of cryptograhpic protocols, in particular, to solve the key issues preventing the blockchain from being widely used in practice. My recent impactful results (e.g., Dumbo protocols) were adopted by a few mainstreaming  blockchain platforms, and rated by mainstream mediums like Guangming Daily and Chinanews as the next-generation core technique for the blockchain infrastructure in China.
+I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of cryptograhpic protocols, in particular, to solve those key issues preventing the blockchain from being widely used in practice. My recent impactful results (e.g., Dumbo protocols) were adopted by a few mainstreaming blockchain platforms, and highly rated by public mediums.
 
 
 Manuscripts
