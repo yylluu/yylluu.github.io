@@ -24,12 +24,12 @@ Manuscripts
 - *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
+- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.  
+     &nbsp; &nbsp; &nbsp; to appear in **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 Selected Publications
 ======
 
-- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.  
-     &nbsp; &nbsp; &nbsp; to appear in **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Fair Peer-to-Peer Content Delivery via Blockchain*.  
      &nbsp; &nbsp; &nbsp; in **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
