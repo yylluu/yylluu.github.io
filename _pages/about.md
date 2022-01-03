@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology. Currenlty, I am affliated with Institute of Software Chinese Academy of Sciences (中国科学院软件研究所).
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis). Currenlty, I am affliated with Institute of Software Chinese Academy of Sciences (中国科学院软件研究所).
 
 
 Research Interests
