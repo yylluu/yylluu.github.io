@@ -28,23 +28,23 @@ Manuscripts
 Selected Publications
 ======
 
-- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. **NDSS** 2022.  
-     &nbsp; &nbsp; &nbsp; with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.   
+     &nbsp; &nbsp; &nbsp; **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
-- *Fair Peer-to-Peer Content Delivery via Blockchain*. **ESORICS** 2021.  
-     &nbsp; &nbsp; &nbsp; with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
+- *Fair Peer-to-Peer Content Delivery via Blockchain*.   
+     &nbsp; &nbsp; &nbsp; **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
-- *Generic Superlight Client for Permissionless Blockchains*. **ESORICS** 2020.  
-     &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
+- *Generic Superlight Client for Permissionless Blockchains*.   
+     &nbsp; &nbsp; &nbsp; **ESORICS** 2020. with Qiang Tang, Guiling Wang.
 
-- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. **PODC** 2020.  
-     &nbsp; &nbsp; &nbsp; with Zhenliang Lu, Qiang Tang, Guiling Wang.
+- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.   
+     &nbsp; &nbsp; &nbsp; **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
-- *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. **ICDCS** 2020.  
-     &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
+- *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.   
+     &nbsp; &nbsp; &nbsp; **ICDCS** 2020. with Qiang Tang, Guiling Wang.
 
-- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. **ICDCS** 2018.  
-     &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
+- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.   
+     &nbsp; &nbsp; &nbsp; **ICDCS** 2018. with Qiang Tang, Guiling Wang.
 
 
 
