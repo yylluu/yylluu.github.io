@@ -28,28 +28,28 @@ Manuscripts
 Selected Publications
 ======
 
-- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.  
-     &nbsp; &nbsp; &nbsp; 2022 Network and Distributed System Security Symposium (**NDSS**).  
+- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*  
+     &nbsp; &nbsp; &nbsp; 2022 Network and Distributed System Security Symposium (**NDSS**)  
      &nbsp; &nbsp; &nbsp; with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
-- *Fair Peer-to-Peer Content Delivery via Blockchain*.  
-     &nbsp; &nbsp; &nbsp; 2021 European Symposium on Research in Computer Security (**ESORICS**).  
+- *Fair Peer-to-Peer Content Delivery via Blockchain*  
+     &nbsp; &nbsp; &nbsp; 2021 European Symposium on Research in Computer Security (**ESORICS**)  
      &nbsp; &nbsp; &nbsp; with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
-- *Generic Superlight Client for Permissionless Blockchains*.  
-     &nbsp; &nbsp; &nbsp; 2020 European Symposium on Research in Computer Security (**ESORICS**).  
+- *Generic Superlight Client for Permissionless Blockchains*  
+     &nbsp; &nbsp; &nbsp; 2020 European Symposium on Research in Computer Security (**ESORICS**)  
      &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
-- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
-     &nbsp; &nbsp; &nbsp; 2020 ACM Symposium on Principles of Distributed Computing (**PODC**).  
+- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*  
+     &nbsp; &nbsp; &nbsp; 2020 ACM Symposium on Principles of Distributed Computing (**PODC**)  
      &nbsp; &nbsp; &nbsp; with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
-- *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
-     &nbsp; &nbsp; &nbsp; 2020 IEEE International Conference on Distributed Computing Systems (**ICDCS**).  
+- *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*  
+     &nbsp; &nbsp; &nbsp; 2020 IEEE International Conference on Distributed Computing Systems (**ICDCS**)  
      &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
-- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.  
-     &nbsp; &nbsp; &nbsp; 2018 IEEE International Conference on Distributed Computing Systems (**ICDCS**).  
+- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*  
+     &nbsp; &nbsp; &nbsp; 2018 IEEE International Conference on Distributed Computing Systems (**ICDCS**)  
      &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
 
