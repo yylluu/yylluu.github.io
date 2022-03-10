@@ -29,22 +29,28 @@ Selected Publications
 ======
 
 - *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.  
-     &nbsp; &nbsp; &nbsp; in **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+     &nbsp; &nbsp; &nbsp; in **NDSS** 2022. (CORE A*) 
+     &nbsp; &nbsp; &nbsp; with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Fair Peer-to-Peer Content Delivery via Blockchain*.  
-     &nbsp; &nbsp; &nbsp; in **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
+     &nbsp; &nbsp; &nbsp; in **ESORICS** 2021. (CORE A) 
+     &nbsp; &nbsp; &nbsp; with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 - *Generic Superlight Client for Permissionless Blockchains*.  
-     &nbsp; &nbsp; &nbsp; in **ESORICS** 2020. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in **ESORICS** 2020. (CORE A) 
+     &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
 - *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.  
-     &nbsp; &nbsp; &nbsp; in ACM **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in ACM **PODC** 2020. (CORE A*) 
+     &nbsp; &nbsp; &nbsp; with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.  
-     &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2020. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2020. (CORE A) 
+     &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
 - *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.  
-     &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2018. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; in IEEE **ICDCS** 2018. (CORE A) 
+     &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
 
 
