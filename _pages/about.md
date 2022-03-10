@@ -31,7 +31,7 @@ Selected Publications
 - *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. **NDSS** 2022. 
      &nbsp; &nbsp; &nbsp; with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
-- *Fair Peer-to-Peer Content Delivery via Blockchain*. **ESORICS** 2021. 
+- *Fair Peer-to-Peer Content Delivery via Blockchain*. **ESORICS** 2021.  
      &nbsp; &nbsp; &nbsp; with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 - *Generic Superlight Client for Permissionless Blockchains*. **ESORICS** 2020.  
@@ -43,7 +43,7 @@ Selected Publications
 - *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. **ICDCS** 2020.  
      &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
-- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. **ICDCS** 2018. 
+- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. **ICDCS** 2018.  
      &nbsp; &nbsp; &nbsp; with Qiang Tang, Guiling Wang.
 
 
