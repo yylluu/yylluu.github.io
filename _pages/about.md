@@ -21,7 +21,7 @@ Manuscripts
 - *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
      &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
-- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As Pipelined BFT*.  
+- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
 
