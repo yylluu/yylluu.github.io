@@ -28,7 +28,7 @@ Manuscripts
 Selected Publications
 ======
 
-- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. **NDSS** 2022. 
+- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. **NDSS** 2022.  
      &nbsp; &nbsp; &nbsp; with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Fair Peer-to-Peer Content Delivery via Blockchain*. **ESORICS** 2021.  
