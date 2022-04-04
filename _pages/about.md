@@ -18,15 +18,15 @@ I have a broad spectrum of interests in blockchain consensus, decentralized appl
 Manuscripts
 ======
 
-- *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
-     &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2106.07831). with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-
 - *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
 
 Selected Publications
 ======
+
+- *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
+     &nbsp; &nbsp; &nbsp; **ICDCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.   
      &nbsp; &nbsp; &nbsp; **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
