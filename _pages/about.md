@@ -27,11 +27,11 @@ Selected Publications
 - *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
      &nbsp; &nbsp; &nbsp; **CCS** 2022. with Zhenliang Lu, Qiang Tang.
 
-- *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
-     &nbsp; &nbsp; &nbsp; **ICDCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-
 - *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.   
      &nbsp; &nbsp; &nbsp; **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+     
+- *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
+     &nbsp; &nbsp; &nbsp; **ICDCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Fair Peer-to-Peer Content Delivery via Blockchain*.   
      &nbsp; &nbsp; &nbsp; **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
