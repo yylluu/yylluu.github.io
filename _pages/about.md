@@ -20,6 +20,7 @@ I have a broad spectrum of interests in blockchain consensus, decentralized appl
 
 Selected Publications
 ======
+All papers listed down below have an alphabetic order of authors:
 
 - *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*.  
      &nbsp; &nbsp; &nbsp; **CCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
