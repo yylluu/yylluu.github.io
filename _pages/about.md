@@ -15,15 +15,21 @@ Research Interests
 I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of cryptograhpic protocols. In particular, my research aims at solving those key issues preventing the blockchain from being widely used in practice.
 
 
-Manuscripts
-======
-
-- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
-     &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
+#Manuscripts
+#======
+#
+#- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
+#     &nbsp; &nbsp; &nbsp; [ArXiv ePrint](https://arxiv.org/abs/2103.09425). with Zhenliang Lu, Qiang Tang.
 
 
 Selected Publications
 ======
+
+- *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*.  
+     &nbsp; &nbsp; &nbsp; **CCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+
+- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
+     &nbsp; &nbsp; &nbsp; **CCS** 2022. with Zhenliang Lu, Qiang Tang.
 
 - *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
      &nbsp; &nbsp; &nbsp; **ICDCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
