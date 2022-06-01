@@ -30,9 +30,9 @@ Work experience
   
 Skills
 ======
-* Cryptograhpic protocols
-* Blockchain applications
 * Distributed computing \& system
+* Blockchain and its applications
+* Cryptograhpic protocols
 
 Publications & manuscripts
 ======
