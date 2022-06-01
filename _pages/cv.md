@@ -30,7 +30,7 @@ Work experience
   
 Skills
 ======
-* Distributed computing \& system
+* Distributed computing and systems
 * Blockchain and its applications
 * Cryptograhpic protocols
 
