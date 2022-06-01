@@ -31,12 +31,12 @@ Work experience
 Skills
 ======
 * Blockchain
+  * Consensus
   * Smart contract
   * Decentralized applications
-  * Consensus design and analysis
 * Cryptograhpy
-  * Practical zero-knowledge proofs
-  * Public key cryptosystem design and security analysis
+  * Zero-knowledge proofs
+  * Secure protocols
 * Programming
   * Java
   * Python
@@ -46,7 +46,6 @@ Skills
   * etc.
 * Miscellaneous
   * Compiling
-  * Mobile application
   * etc.
 
 Publications & manuscripts
