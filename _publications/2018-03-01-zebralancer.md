@@ -2,6 +2,7 @@
 title: "ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain"
 collection: IEEE ICDCS 2018
 permalink: /publication/2018-03-01-zebralancer
+venue: IEEE ICDCS
 excerpt: 'Decentralized application'
 date: 2018-03-02
 paperurl: 'https://ieeexplore.ieee.org/document/8416350'
