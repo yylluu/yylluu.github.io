@@ -2,7 +2,6 @@
 title: "On Enabling Machine Learning Tasks atop Public Blockchains: a Crowdsourcing Approach"
 collection: publications
 permalink: /publication/2018-10-01-ml-contract
-excerpt: 'Decentralized application'
 date: 2018-10-01
 venue: 'The 1st Workshop on Blockchain and Sharing Economy Applications (BlockSEA)'
 paperurl: 'https://ieeexplore.ieee.org/document/8637413'
