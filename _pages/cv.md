@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,23 +30,9 @@ Work experience
   
 Skills
 ======
-* Blockchain
-  * Consensus
-  * Smart contract
-  * Decentralized applications
-* Cryptograhpy
-  * Zero-knowledge proofs
-  * Secure protocols
-* Programming
-  * Java
-  * Python
-  * C/C++
-  * Solidity
-  * Bitcoin scripts
-  * etc.
-* Miscellaneous
-  * Compiling
-  * etc.
+* Cryptograhpic protocols
+* Blockchain applications
+* Distributed computing \& system
 
 Publications & manuscripts
 ======
