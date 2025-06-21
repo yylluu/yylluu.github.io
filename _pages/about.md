@@ -20,7 +20,9 @@ I have a broad spectrum of interests in blockchain consensus, decentralized appl
 
 Selected Publications
 ======
-All papers listed down below have an alphabetic order of authors:
+
+- *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
+     &nbsp; &nbsp; &nbsp; **USENIX Security** 2025. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 
 - *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*.  
      &nbsp; &nbsp; &nbsp; **CCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
