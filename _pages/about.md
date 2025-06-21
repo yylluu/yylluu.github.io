@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis). Currenlty, I am affliated with Institute of Software Chinese Academy of Sciences (中国科学院软件研究所).
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis).
 
 
 Research Interests
 ======
-I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of cryptograhpic protocols. In particular, my research aims at solving those key issues preventing the blockchain from being widely used in practice.
+I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of multi-party cryptograhpic protocols. In particular, my research aims at solving a few critical issues preventing blockchains from being widely used in practice.
 
 
  
@@ -55,11 +55,13 @@ All papers listed down below have an alphabetic order of authors:
 Professional Activities
 ======
 
+- **PC for Conferences**: CCS 2024-2025, FC 2024, PST 2020, APKC 2021, etc. 
+
 - **Referee for Journals**: Distributed Computing, IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
 - **Referee for Conferences**: ACM PODC 2021, USENIX Security 2021, ASIACRYPT 2021-2018, INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, ACNS 2019, PKC 2022/2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
 
-- **PC for Conferences**: PST 2020, APKC 2021, etc. 
+
 
 
 Research Fundings
@@ -71,13 +73,15 @@ Research Fundings
 Awards and Honors
 ======
 
-- Joseph Leung Award for Best PhD Thesis. awared by CS deparment at NJIT 
+- Promising Paper Award. awarded by Crypto Valley Conference 2025
 
-- China National Scholarship. awared by the Minstry of Education of China
+- Joseph Leung Award for Best PhD Thesis. awarded by CS deparment at NJIT 
 
-- Distinguished Master Graduate. awared by Nankai University
+- China National Scholarship. awarded by the Minstry of Education of China
+
+- Distinguished Master Graduate. awarded by Nankai University
  
-- Excellent Master Thesis. awared by Nankai University
+- Excellent Master Thesis. awarded by Nankai University
 
 
 Medium Coverage
