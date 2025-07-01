@@ -12,7 +12,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or tradi
 
 Research Interests
 ======
-I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of multi-party cryptograhpic protocols. In particular, my research aims at solving a few critical issues preventing blockchains from being widely used in practice.
+I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at solving a few critical issues preventing blockchains from being widely used in practice.
 
 
  
@@ -20,6 +20,8 @@ I have a broad spectrum of interests in blockchain consensus, decentralized appl
 
 Selected Publications
 ======
+
+Many my research results are published in top-tier CS venues, including ACM PODC, ACM CCS (×2), USENIX Security (×2), NDSS (×2), for example:
 
 - *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
      &nbsp; &nbsp; &nbsp; **USENIX Security** 2025. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
