@@ -21,7 +21,7 @@ I have a broad spectrum of interests in blockchain consensus, decentralized appl
 Selected Publications
 ======
 
-Many my research results are published in top-tier A+ CS conferences (according to CORE ranking), such as ACM PODC, ACM CCS, USENIX Security, and NDSS. Some of my representative works include:
+Many my research results are published in top-tier A+ CS conferences (according to CORE ranking), such as ACM PODC, ACM CCS, USENIX Security, and NDSS. An incomplete list of my representative works include:
 
 - *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
      &nbsp; &nbsp; &nbsp; **USENIX Security** 2025. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
