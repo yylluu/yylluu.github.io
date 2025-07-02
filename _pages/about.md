@@ -24,40 +24,40 @@ Selected Publications
 Many my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, USENIX Security, and NDSS. An incomplete list of these studies include:
 
 - *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
-     &nbsp; &nbsp; &nbsp; **USENIX Security** 2025. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
+     &nbsp; &nbsp; &nbsp; **Security** 25. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 
 - *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*.  
-     &nbsp; &nbsp; &nbsp; **USENIX Security** 2025. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
+     &nbsp; &nbsp; &nbsp; **Security** 25. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 
 - *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*.  
-     &nbsp; &nbsp; &nbsp; **NDSS** 2025. with Yizhong Liu, Andi Liu, et al.
+     &nbsp; &nbsp; &nbsp; **NDSS** 25. with Yizhong Liu, Andi Liu, et al.
 
 - *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*.  
-     &nbsp; &nbsp; &nbsp; **CCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+     &nbsp; &nbsp; &nbsp; **CCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.  
-     &nbsp; &nbsp; &nbsp; **CCS** 2022. with Zhenliang Lu, Qiang Tang.
+     &nbsp; &nbsp; &nbsp; **CCS** 22. with Zhenliang Lu, Qiang Tang.
 
 - *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.   
-     &nbsp; &nbsp; &nbsp; **NDSS** 2022. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+     &nbsp; &nbsp; &nbsp; **NDSS** 22. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
      
 - *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
-     &nbsp; &nbsp; &nbsp; **ICDCS** 2022. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+     &nbsp; &nbsp; &nbsp; **ICDCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - *Fair Peer-to-Peer Content Delivery via Blockchain*.   
-     &nbsp; &nbsp; &nbsp; **ESORICS** 2021. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
+     &nbsp; &nbsp; &nbsp; **ESORICS** 21. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
 
 - *Generic Superlight Client for Permissionless Blockchains*.   
-     &nbsp; &nbsp; &nbsp; **ESORICS** 2020. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; **ESORICS** 20. with Qiang Tang, Guiling Wang.
 
 - *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.   
-     &nbsp; &nbsp; &nbsp; **PODC** 2020. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; **PODC** 20. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.   
-     &nbsp; &nbsp; &nbsp; **ICDCS** 2020. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; **ICDCS** 20. with Qiang Tang, Guiling Wang.
 
 - *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.   
-     &nbsp; &nbsp; &nbsp; **ICDCS** 2018. with Qiang Tang, Guiling Wang.
+     &nbsp; &nbsp; &nbsp; **ICDCS** 18. with Qiang Tang, Guiling Wang.
 
 
 
