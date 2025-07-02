@@ -30,7 +30,7 @@ Many my research results are published in top-tier CS conferences, such as ACM P
      &nbsp; &nbsp; &nbsp; **Security** 25. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 
 - *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*.  
-     &nbsp; &nbsp; &nbsp; **NDSS** 25. with Yizhong Liu, Andi Liu, et al.
+     &nbsp; &nbsp; &nbsp; **NDSS** 25. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 
 - *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*.  
      &nbsp; &nbsp; &nbsp; **CCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
