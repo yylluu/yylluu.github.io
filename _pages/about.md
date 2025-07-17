@@ -7,12 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis).
-
-
-Research Interests
-======
-I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at solving a few critical issues preventing blockchains from being widely used in practice.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis). I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at bringing efficient solutions to a few critical issues preventing blockchains from being broaderly used in practice.
 
 
  
