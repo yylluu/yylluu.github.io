@@ -76,7 +76,7 @@ Research Fundings
 
 - Asynchronous Byzantine-Fault Tolerant Protocols for Blockchain. **NSFC**, **PI**, 2021-2023
 
-- Design and Analysis of Consensus for Complicated Networks. **MOST**, **PI**, 2023-2025
+- Design and Analysis of Blockchain Consensus for Complicated Networks. **MOST**, **PI**, 2023-2025
 
 
 Awards and Honors
