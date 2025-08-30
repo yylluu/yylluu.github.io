@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis). I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at bringing efficient solutions to a few critical issues preventing blockchains from being broaderly used in practice.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (with receiving Joseph Leung Award for Best PhD Thesis). I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at bringing efficient solutions to a few critical issues preventing blockchains from being broadly used in practice.
 
 
  
@@ -16,7 +16,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplifed Chinese 路远 or tradi
 Selected Publications
 ======
 
-Many my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, USENIX Security, and NDSS. An incomplete list of these studies include:
+Many of my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, USENIX Security, and NDSS. An incomplete list of these studies includes:
 
 - *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
      &nbsp; &nbsp; &nbsp; **Security** 25. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
@@ -60,7 +60,9 @@ Many my research results are published in top-tier CS conferences, such as ACM P
 Professional Activities
 ======
 
-- **PC for Conferences**: CCS 2024-2025, FC 2024, PST 2020, APKC 2021, etc. 
+- **PC for Conferences**: CCS 24-25, FC 24-25, PST 20, APKC 2021, etc.
+
+- **Chairing**: AI+blockchain track in IEEE ICDLT 25.
 
 - **Referee for Journals**: Distributed Computing, IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
@@ -74,6 +76,8 @@ Research Fundings
 
 - Asynchronous Byzantine-Fault Tolerant Protocols for Blockchain. **NSFC**, **PI**, 2021-2023
 
+- Design and Analysis of Consensus for Complicated Networks. **MOST**, **PI**, 2023-2025
+
 
 Awards and Honors
 ======
@@ -82,7 +86,7 @@ Awards and Honors
 
 - Joseph Leung Award for Best PhD Thesis. awarded by CS deparment at NJIT 
 
-- China National Scholarship. awarded by the Minstry of Education of China
+- China National Scholarship. awarded by the Ministry of Education of China
 
 - Distinguished Master Graduate. awarded by Nankai University
  
