@@ -40,7 +40,11 @@ Many of my research results are published in top-tier CS conferences, such as AC
 
 - *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.   
      &nbsp; &nbsp; &nbsp; **NDSS** 22. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-     
+  
+- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.   
+     &nbsp; &nbsp; &nbsp; **PODC** 20. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+
+<!--
 - *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
      &nbsp; &nbsp; &nbsp; **ICDCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
@@ -50,14 +54,12 @@ Many of my research results are published in top-tier CS conferences, such as AC
 - *Generic Superlight Client for Permissionless Blockchains*.   
      &nbsp; &nbsp; &nbsp; **ESORICS** 20. with Qiang Tang, Guiling Wang.
 
-- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.   
-     &nbsp; &nbsp; &nbsp; **PODC** 20. with Zhenliang Lu, Qiang Tang, Guiling Wang.
-
 - *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.   
      &nbsp; &nbsp; &nbsp; **ICDCS** 20. with Qiang Tang, Guiling Wang.
 
 - *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.   
      &nbsp; &nbsp; &nbsp; **ICDCS** 18. with Qiang Tang, Guiling Wang.
+-->
 
 
 
