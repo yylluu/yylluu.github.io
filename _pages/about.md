@@ -16,7 +16,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or trad
 Selected Publications
 ======
 
-Many of my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, IEEE S\&P. USENIX Security, and NDSS. An incomplete list of these studies includes:
+Many of my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, IEEE S\&P, USENIX Security, and NDSS. An incomplete list of these studies includes:
 
 - *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*.  
      &nbsp; &nbsp; &nbsp; **Oakland** 26. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
