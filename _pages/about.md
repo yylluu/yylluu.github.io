@@ -18,18 +18,17 @@ Selected Publications
 
 Many of my research results have been published in top-tier computer science conferences, including ACM PODC, ACM CCS, IEEE S&P, USENIX Security, and NDSS. An incomplete list is shown below:
 
-- *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*,
-  **Oakland ’26**, Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu
-- *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*,
-  **Security ’25**, Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang
-- *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*,
-  **CCS ’22**, Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang
-- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*,
-  **CCS ’22**, Zhenliang Lu, Qiang Tang
-- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice**,
-  *NDSS ’22*, Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang
-- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*,
-  **PODC ’20**, Zhenliang Lu, Qiang Tang, Guiling Wang
+- **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
+  
+- **[Security’25]** *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
+  
+- **[CCS’22]** *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+  
+- **[CCS’22]** *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*. with Zhenliang Lu, Qiang Tang.
+  
+- **[NDSS’22]** *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+  
+- **[PODC’20]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 <!--
 - *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*.  
