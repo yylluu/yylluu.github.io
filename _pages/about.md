@@ -13,7 +13,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or trad
  
 
 
-## Selected Publications
+Selected Publications
 ======
 
 Many of my research results have been published in top-tier computer science conferences, including ACM PODC, ACM CCS, IEEE S&P, USENIX Security, and NDSS. An incomplete list is shown below:
