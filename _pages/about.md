@@ -18,6 +18,9 @@ Selected Publications
 
 Many of my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, USENIX Security, and NDSS. An incomplete list of these studies includes:
 
+- *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*.  
+     &nbsp; &nbsp; &nbsp; **Oakland** 26. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
+  
 - *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
      &nbsp; &nbsp; &nbsp; **Security** 25. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 
