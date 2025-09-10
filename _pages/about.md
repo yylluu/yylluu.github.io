@@ -22,11 +22,11 @@ Many of my research results have been published in top-tier computer science con
 
 - **[CCS’25]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 
-- **[NDSS’25]** *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
-
 - **[Security’25]** *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 
 - **[Security’25]** *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
+
+- **[NDSS’25]** *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
   
 - **[CCS’22]** *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
   
