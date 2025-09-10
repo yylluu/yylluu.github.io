@@ -59,7 +59,7 @@ Many of my research results have been published in top-tier computer science con
 Professional Activities
 ======
 
-- **PC for Conferences**: CCS 24-25, FC 24-25, PST 20, APKC 2021, etc.
+- **PC for Conferences**: CCS 24-25, FC 25-26, PST 20, APKC 2021, etc.
 
 - **Chairing**: AI+blockchain track of IEEE ICDLT 25, Phd forum of SecureComm 26.
 
