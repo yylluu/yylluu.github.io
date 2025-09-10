@@ -19,33 +19,25 @@ Selected Publications
 Many of my research results are published in top-tier CS conferences, such as ACM PODC, ACM CCS, IEEE S\&P, USENIX Security, and NDSS. An incomplete list of these studies includes:
 
 
-- <span>*Practical Asynchronous Distributed Key Reconfiguration and Its Applications*.</span> <span style="margin-left: 2em;">**Oakland** 26. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.</span>
+- <span>*Practical Asynchronous Distributed Key Reconfiguration and Its Applications*.</span> <span>**Oakland** 26. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.</span>
 
-  
-- *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.  
-     &nbsp; &nbsp; &nbsp; **Security** 25. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
-  
+- <span>*Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*.</span> <span>**Security** 25. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.</span>
+
+- <span>*Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*.</span> <span>**CCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.</span> 
+
+- <span>*Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.</span> <span>**CCS** 22. with Zhenliang Lu, Qiang Tang.</span> 
+
+- <span>*Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*.</span> <span>**NDSS** 22. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.</span> 
+
+- <span>*Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.</span> <span>**PODC** 20. with Zhenliang Lu, Qiang Tang, Guiling Wang.</span> 
+
 <!--
 - *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*.  
      &nbsp; &nbsp; &nbsp; **Security** 25. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 
 - *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*.  
      &nbsp; &nbsp; &nbsp; **NDSS** 25. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
--->
 
-- *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*. 
-     &nbsp; &nbsp; &nbsp; **CCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-
-- *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*.
-     &nbsp; &nbsp; &nbsp; **CCS** 22. with Zhenliang Lu, Qiang Tang.
-
-- *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. 
-     &nbsp; &nbsp; &nbsp; **NDSS** 22. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-  
-- *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*.
-     &nbsp; &nbsp; &nbsp; **PODC** 20. with Zhenliang Lu, Qiang Tang, Guiling Wang.
-
-<!--
 - *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
      &nbsp; &nbsp; &nbsp; **ICDCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
