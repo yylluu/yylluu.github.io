@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (while receiving the Joseph Leung Award for Best PhD Thesis). I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at bringing solutions to build more efficient and/or more secure blockchains and decentralized applications.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I obtained my doctoral degree in computer science from New Jersey Institute of Technology (while receiving the Joseph Leung Award for Best PhD Thesis). I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research aims at bringing efficient and secure solutions towards decentralization.
 
 
  
@@ -16,7 +16,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or trad
 Selected Publications
 ======
 
-Many of my research results have been published in top-tier computer science conferences, including ACM PODC, ACM CCS, IEEE S&P (Oakland), USENIX Security, and NDSS. Examples are:
+Many of my research results have been published in top-tier computer science venues, including ACM PODC, ACM CCS, IEEE S&P (Oakland), USENIX Security, and NDSS. Examples are:
 
 
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
