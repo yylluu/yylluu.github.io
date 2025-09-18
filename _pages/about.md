@@ -16,7 +16,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or trad
 Selected Publications
 ======
 
-Many of my research results have been published in top-tier computer science venues ([CORE ranking](https://portal.core.edu.au/conf-ranks/), [CS rankings](https://csrankings.org/)), including ACM PODC, ACM CCS, IEEE S&P (Oakland), USENIX Security, and NDSS. Examples are:
+Many of my research results have been published in top-tier computer science venues (according to [CORE ranking](https://portal.core.edu.au/conf-ranks/), [CS rankings](https://csrankings.org/), [CCF ranking](https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml)). Examples include publications in ACM PODC, ACM CCS, IEEE S&P (Oakland), USENIX Security, and NDSS:
 
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
 
