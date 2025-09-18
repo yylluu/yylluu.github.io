@@ -33,7 +33,10 @@ Many of my research results have been published in top-tier computer science ven
 - **[CCS’22]** *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*. with Zhenliang Lu, Qiang Tang.
   
 - **[NDSS’22]** *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-  
+
+- **[PODC’20]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+
+<!--
 - **[ICDCS’22]** *Efficient Asynchronous Byzantine Agreement without Private Setups*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - **[ESORICS'21]** *Fair Peer-to-Peer Content Delivery via Blockchain*. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
@@ -46,6 +49,7 @@ Many of my research results have been published in top-tier computer science ven
 
 - **[ICDCS’18]** *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. with Qiang Tang, Guiling Wang.
 
+-->
 
 
 
