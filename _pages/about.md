@@ -87,15 +87,15 @@ Research Fundings
 Awards and Honors
 ======
 
-- Promising Paper Award. awarded by Crypto Valley Conference 2025
+- Promising Paper Award. Crypto Valley Conference 2025
 
-- Joseph Leung Award for Best PhD Thesis. awarded by CS deparment at NJIT 
+- Joseph Leung Award for Best PhD Thesis. NJIT 
 
-- China National Scholarship. awarded by the Ministry of Education of China
+- China National Scholarship. Ministry of Education of China
 
-- Distinguished Master Graduate. awarded by Nankai University
+- Distinguished Master Graduate. Nankai University
  
-- Excellent Master Thesis. awarded by Nankai University
+- Excellent Master Thesis. Nankai University
 
 
 Medium Coverage
