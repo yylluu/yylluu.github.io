@@ -18,7 +18,6 @@ Selected Publications
 
 Many of my research results have been published in top-tier computer science venues, including ACM PODC, ACM CCS, IEEE S&P (Oakland), USENIX Security, and NDSS. Examples are:
 
-
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
 
 - **[CCS’25]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
@@ -66,7 +65,7 @@ Many of my research results have been published in top-tier computer science ven
 Professional Activities
 ======
 
-- **PC for Conferences**: CCS 24-25, FC 25-26, PST 20, APKC 2021, etc.
+- **PC for Conferences**: CCS 24-26, FC 25-26, PST 20, APKC 2021, etc.
 
 - **Chairing**: AI+blockchain track of IEEE ICDLT 25, Phd forum of SecureComm 26.
 
