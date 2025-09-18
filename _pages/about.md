@@ -34,30 +34,17 @@ Many of my research results have been published in top-tier computer science ven
   
 - **[NDSS’22]** *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
   
+- **[ICDCS’22]** *Efficient Asynchronous Byzantine Agreement without Private Setups*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+
+- **[ESORICS'21]** *Fair Peer-to-Peer Content Delivery via Blockchain*. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
+
 - **[PODC’20]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
-<!--
-- *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*.  
-     &nbsp; &nbsp; &nbsp; **Security** 25. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
+- **[ESORICS'20]** *Generic Superlight Client for Permissionless Blockchains*. with Qiang Tang, Guiling Wang.
 
-- *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*.  
-     &nbsp; &nbsp; &nbsp; **NDSS** 25. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
+- **[ICDCS’20]** *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. with Qiang Tang, Guiling Wang.
 
-- *Efficient Asynchronous Byzantine Agreement without Private Setups*.  
-     &nbsp; &nbsp; &nbsp; **ICDCS** 22. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-
-- *Fair Peer-to-Peer Content Delivery via Blockchain*.   
-     &nbsp; &nbsp; &nbsp; **ESORICS** 21. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
-
-- *Generic Superlight Client for Permissionless Blockchains*.   
-     &nbsp; &nbsp; &nbsp; **ESORICS** 20. with Qiang Tang, Guiling Wang.
-
-- *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*.   
-     &nbsp; &nbsp; &nbsp; **ICDCS** 20. with Qiang Tang, Guiling Wang.
-
-- *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*.   
-     &nbsp; &nbsp; &nbsp; **ICDCS** 18. with Qiang Tang, Guiling Wang.
--->
+- **[ICDCS’18]** *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. with Qiang Tang, Guiling Wang.
 
 
 
