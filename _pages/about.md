@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, I focus on developing efficient and secure solutions that strengthen the foundations of trustworthy networked systems, with a specific interest in enhancing robustness, protecting privacy, and improving censorship-resilience for user-centric and citizen-first web applications.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, I focus on developing efficient and secure solutions that strengthen the foundations of trustworthy networked systems, with a specific interest in enhancing robustness, protecting privacy, and improving censorship-resilience for citizen-first decentralized infrastructure and user-centric Web3 applications.
 
 
  
