@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, my research focuses on developing efficient and secure solutions to enhance the decentralization and robustness of the Internet and to strengthen the foundations of trustworthy networked systems.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, I focus on developing efficient and secure solutions that strengthen the foundations of trustworthy networked systems, with a particular interest in strengthening robustness, protecting privacy, and improving censorship-resilience for user-centric and citizen-first web applications.
 
 
  
@@ -40,8 +40,6 @@ Many of my research results have been published in top-tier computer science ven
 - **[ICDCS’22]** *Efficient Asynchronous Byzantine Agreement without Private Setups*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - **[ESORICS'21]** *Fair Peer-to-Peer Content Delivery via Blockchain*. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
-
-- **[PODC’20]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 
 - **[ESORICS'20]** *Generic Superlight Client for Permissionless Blockchains*. with Qiang Tang, Guiling Wang.
 
