@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Yuan Lu's Homepage"
+excerpt: "Yuan's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols for Web3. In particular, I focus on developing efficient and secure solutions that strengthen the foundations of trustworthy networked systems, with a specific interest in enhancing robustness, protecting privacy, and improving censorship-resilience for citizen-first decentralized infrastructure and user-centric Web3 applications.
-
 
  
 
@@ -82,20 +81,27 @@ Awards and Honors
 
 - Joseph Leung Award for Best PhD Thesis. NJIT 
 
+- Award for Excellent Graduate. Nankai University
+ 
+- Award for Best Master's Thesis. Nankai University
+
+<!--
+
 - China National Scholarship. Ministry of Education of China
 
 - Distinguished Master Graduate. Nankai University
  
 - Excellent Master Thesis. Nankai University
 
+-->
 
 Medium Coverage
 ======
 
-- Dumbo-MVBA was reported widely by major media in China including [CoinDesk中文网](http://www.coindeskchinese.com/#/article/4976), [光明日报](https://app.gmdaily.cn/as/opened/n/85ece7999ee2440391078c2b7c43d890), [科学网](http://news.sciencenet.cn/sbhtmlnews/2021/2/360847.shtm?id=360847), [中国新闻网](http://www.chinanews.com/gn/2021/02-08/9407601.shtml).
+- Dumbo-MVBA was reported widely by major media in China, including [CoinDesk中文网](http://www.coindeskchinese.com/#/article/4976), [光明日报](https://app.gmdaily.cn/as/opened/n/85ece7999ee2440391078c2b7c43d890), [科学网](http://news.sciencenet.cn/sbhtmlnews/2021/2/360847.shtm?id=360847), [中国新闻网](http://www.chinanews.com/gn/2021/02-08/9407601.shtml).
 
-
-
+- Multiple works were reported by *This Week in Blockchain Research* (zk Capital), including **Dragoon** [(#65)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5f1); **Dumbo-MVBA** [(#65)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5f1); **Redactable Blockchain** [(#98)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-087); **Bolt-Dumbo** [(#101)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5ce); **Distributed Key Generation** [(#113)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-e7b).
+  
 <!---
 More Personal Trajectory
 ======
