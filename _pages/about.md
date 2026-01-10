@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols. In particular, I focus on developing efficient and secure solutions that strengthen the foundations of trustworthy networked systems, with a specific interest in enhancing robustness, protecting privacy, and improving censorship-resilience for citizen-first decentralized infrastructure and user-centric Web3 applications.
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from New Jersey Institute of Technology, where I was awarded the Joseph Leung Award for Best CS Dissertation. I have a broad spectrum of interests in blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols for Web3. In particular, I focus on developing efficient and secure solutions that strengthen the foundations of trustworthy networked systems, with a specific interest in enhancing robustness, protecting privacy, and improving censorship-resilience for citizen-first decentralized infrastructure and user-centric Web3 applications.
 
 
  
@@ -19,6 +19,8 @@ Selected Publications
 Many of my research results have been published in top-tier computer science venues (according to [CORE ranking](https://portal.core.edu.au/conf-ranks/), [CS rankings](https://csrankings.org/), [CCF ranking](https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml)). Examples include publications in ACM PODC, ACM CCS, IEEE S&P (Oakland), USENIX Security, and NDSS:
 
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
+
+- **[Security’26]** *Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead*. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
 
 - **[CCS’25]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 
