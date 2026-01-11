@@ -55,13 +55,13 @@ Many of my research results have been published in top-tier computer science ven
 Professional Activities
 ======
 
-- **PC for Conferences**: CCS 24-26, FC 25-26, PST 20, APKC 2021, etc.
+- **PC for Conferences**: CCS 26/25/24, FC 26/25, PST 20, APKC 21, etc.
 
 - **Chairing**: AI+blockchain track of IEEE ICDLT 25, Phd forum of SecureComm 26.
 
 - **Referee for Journals**: Distributed Computing, IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
-- **Referee for Conferences**: ACM PODC 2021/2023/2024, USENIX Security 2021, ASIACRYPT 2021-2018, INFOCOM 2020-2017, ESORICS 2020/2019/2017, AsiaCCS 2020, ACNS 2019, PKC 2022/2019, TrustCom 2019, ACISP 2018, IEEE Blockchain 2018, ICICS 2018, ICBC 2018, etc. 
+- **Referee for Conferences**: ACM PODC 24/23/21, USENIX Security 21, ASIACRYPT 21-18, INFOCOM 20-17, ESORICS 20/19/17, AsiaCCS 20, ACNS 19, PKC 22/19, TrustCom 19, ACISP 18, IEEE Blockchain 18, ICICS 18, ICBC 18, etc. 
 
 
 
