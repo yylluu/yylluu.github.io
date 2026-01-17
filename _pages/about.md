@@ -104,7 +104,7 @@ Medium Coverage
 
 - **Dumbo-MVBA** was reported widely by major media in China, including [CoinDesk中文网](https://m.mifengcha.com/news/5f02fffd84a64d0b86b5e977), [光明日报](https://app.gmdaily.cn/as/opened/n/85ece7999ee2440391078c2b7c43d890), [科学网](http://news.sciencenet.cn/sbhtmlnews/2021/2/360847.shtm?id=360847), [中国新闻网](http://www.chinanews.com/gn/2021/02-08/9407601.shtml).
 
-- Multiple works were reported by *This Week in Blockchain Research* (zk Capital), including **Dragoon** [(#65)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5f1); **Dumbo-MVBA** [(#65)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5f1); **Redactable Blockchain** [(#98)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-087); **Bolt-Dumbo** [(#101)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5ce); **Distributed Key Generation** [(#113)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-e7b).
+- Multiple works were reported by *This Week in Blockchain Research* ([zk Capital](https://www.cbinsights.com/investor/zk-capital)), including **Dragoon** [(#65)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5f1); **Dumbo-MVBA** [(#65)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5f1); **Redactable Blockchain** [(#98)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-087); **Bolt-Dumbo** [(#101)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-5ce); **Distributed Key Generation** [(#113)](https://zkcapital.substack.com/p/this-week-in-blockchain-research-e7b).
   
 <!---
 More Personal Trajectory
