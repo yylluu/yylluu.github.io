@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from the New Jersey Institute of Technology, where my dissertation was honored with the Joseph Leung Award for Best CS Dissertation.
-
-My research spans blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols for Web3. I am particularly interested in developing efficient and secure foundations for trustworthy networked systems, with an emphasis on robustness, privacy protection, and censorship resilience. My goal is to support citizen-first decentralized infrastructure and user-centric Web3 applications that operate reliably in adversarial and unstable real-world environments.
-
-Representative research topics include:
+Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or traditional Chinese 路遠, which literally means *a long way to go*). I received my Ph.D. in Computer Science from the New Jersey Institute of Technology, where my dissertation was honored with the Joseph Leung Award for Best CS Dissertation. My research spans blockchain infrastructure, decentralized applications, and the design and analysis of multi-party cryptographic protocols for Web3. I am particularly interested in developing efficient and secure foundations for trustworthy networked systems, with an emphasis on robustness, privacy protection, and censorship resilience. My goal is to support citizen-first decentralized infrastructure and user-centric Web3 applications that operate reliably in adversarial and unstable real-world environments. Representative research topics include:
 
 - **Blockchain Consensus**. Enhancing the scalability and performance of asynchronous Byzantine fault-tolerant (BFT) consensus to secure Layer-1 blockchain infrastructure deployed over the unstable real-world Internet (CCS 25/22a/22b, NDSS 25/22, USENIX Security 26, PODC 20, TDSC 25a, TIFS 25a).
 
