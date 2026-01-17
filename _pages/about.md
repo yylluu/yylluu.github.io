@@ -13,7 +13,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or trad
 
 - **Secure Multi-Party Computation**. Integrating fault-tolerant techniques into scalable MPC and federated learning systems, enabling robust deployments over the open and fluctuating Internet (USENIX Security 25a/25b).
 
-- **Threshold Cryptosystems**. Improving the bootstrapping and reconfiguration of modern threshold-cryptosystem-based fault-tolerant systems with reduced trust assumptions and higher efficiency (SP 26, ICDCS 22, TDSC 25b, TIFS 25b).
+- **Threshold Cryptosystems**. Enhancing the efficiency of bootstrapping and reconfiguration, and also expanding the practical applications of modern threshold-cryptosystem-based fault-tolerant systems (SP 26, ICDCS 22, TDSC 25b, TIFS 25b).
 
 - **Decentralized Applications**. Designing practical, privacy-preserving, and fair decentralized applications for peer-to-peer settings, ranging from decentralized data–cryptocurrency exchange to direct fiat–crypto swaps (ICDCS 20/18, TPDS 22, ESORICS 21, CVC 25 with Best Paper Award).
  
