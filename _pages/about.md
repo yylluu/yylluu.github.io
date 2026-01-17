@@ -19,15 +19,19 @@ Many of my research results have been published in top-tier computer science ven
 
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
 
+<!--
 - **[Security’26]** *Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead*. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
 
 - **[CCS’25]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 
 - **[Security’25]** *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
+-->
 
 - **[Security’25]** *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 
+<!--
 - **[NDSS’25]** *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
+-->
   
 - **[CCS’22]** *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
   
