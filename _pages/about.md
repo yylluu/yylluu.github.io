@@ -72,7 +72,7 @@ Research Fundings
 
 - Design and Analysis of Blockchain Consensus for Complicated Networks. **MOST**, **PI**, 2023-2025
 
-- Youth Innovation Promotion Association Award (with accompanying funding). **CAS**, **PI**, 2022-2025
+- Youth Innovation Promotion Association Award. **CAS**, **PI**, 2022-2025
 
 - Blockchain for Trustworthy 6G. **CAS**, **co-PI**, 2023-
 
