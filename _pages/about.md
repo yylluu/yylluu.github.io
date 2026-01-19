@@ -74,8 +74,9 @@ Research Fundings
 
 - Youth Innovation Promotion Association Award (with accompanying funding). **CAS**, **PI**, 2022-2025
 
-- Blockchain in 6G. **CAS**, **co-PI**, 2023-
+- Blockchain for Trustworthy 6G. **CAS**, **co-PI**, 2023-
 
+- Analyzing and Securing Ethereum PoS in the Fully Asynchronous Network, **Ethereum Foundation**, **co-PI**, 2022
 
 Awards and Honors
 ======
