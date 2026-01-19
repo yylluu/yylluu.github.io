@@ -31,19 +31,15 @@ Many of my research results have been published in top-tier computer science ven
 
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
 
-<!--
 - **[Security’26]** *Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead*. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
 
 - **[CCS’25]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 
 - **[Security’25]** *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
--->
 
 - **[Security’25]** *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 
-<!--
 - **[NDSS’25]** *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
--->
   
 - **[CCS’22]** *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
   
@@ -52,19 +48,6 @@ Many of my research results have been published in top-tier computer science ven
 - **[NDSS’22]** *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 
 - **[PODC’20]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. with Zhenliang Lu, Qiang Tang, Guiling Wang.
-
-<!--
-- **[ICDCS’22]** *Efficient Asynchronous Byzantine Agreement without Private Setups*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-
-- **[ESORICS'21]** *Fair Peer-to-Peer Content Delivery via Blockchain*. with Songlin He, Qiang Tang, Guiling Wang, Chase Wu.
-
-- **[ESORICS'20]** *Generic Superlight Client for Permissionless Blockchains*. with Qiang Tang, Guiling Wang.
-
-- **[ICDCS’20]** *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*. with Qiang Tang, Guiling Wang.
-
-- **[ICDCS’18]** *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*. with Qiang Tang, Guiling Wang.
-
--->
 
 
 
