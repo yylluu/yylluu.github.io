@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -126,7 +126,7 @@ Yuan Lu, Qiang Tang, Guiling Wang
 
 **[J13]** *Bootstrapping Trust across Web2 and Web3 Domains Using Publicly Verifiable Web Data*  
 Yuan Lu, Qiang Tang  
-The Paris Journal on AI & Digital Ethics2025
+The Paris Journal on AI & Digital Ethics 2025
 
 
 
