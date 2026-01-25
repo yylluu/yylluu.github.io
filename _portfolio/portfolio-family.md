@@ -6,13 +6,11 @@ collection: portfolio
 
 <br>
 <img src="/images/4.jpg">
-<img src="/images/5.jpg">
 <img src="/images/6.jpg">
 <br>
 
 <br>
 <img src="/images/7.jpg">
-<img src="/images/8.jpg">
 <img src="/images/9.jpg">
 <br>
 
