@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### Conference Papers
+## Conference Papers
 
 
 
@@ -120,7 +120,7 @@ Yuan Lu, Qiang Tang, Guiling Wang
 
 
 
-### Journal Papers  
+## Journal Papers  
 
 
 
@@ -202,7 +202,7 @@ Journal of Database Management 2021
 
 
 
-### Workshop Papers  
+## Workshop Papers  
 
 
 
