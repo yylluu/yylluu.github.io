@@ -13,7 +13,7 @@ author_profile: true
 
 **[C18]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*  
 Hanwen Feng, Yingzi Gao, Yuan Lu, Qiang Tang, Jing Xu  
-**IEEE S&P (Oakland) 2026** — Co-lead authors
+**IEEE S&P (Oakland) 2026** 
 
 
 
