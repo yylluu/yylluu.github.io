@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Yuan's Homepage"
+excerpt: "Yuan's Homepage."
 author_profile: true
 redirect_from: 
   - /about/
@@ -51,7 +51,7 @@ Many of my research results have been published in top-tier computer science ven
 
 
 
-Professional Activities
+Services
 ======
 
 - **PC for Conferences**: CCS 26/25/24, FC 26/25, PST 20, APKC 21, etc.
@@ -65,7 +65,7 @@ Professional Activities
 
 
 
-Research Fundings
+Fundings
 ======
 
 - Asynchronous Byzantine-Fault Tolerant Protocols for Blockchain. **NSFC**, **PI**, 2021-2023
@@ -78,7 +78,7 @@ Research Fundings
 
 - Analyzing and Securing Ethereum PoS in the Fully Asynchronous Network, **Ethereum Foundation**, **co-PI**, 2022
 
-Awards and Honors
+Awards
 ======
 
 - Promising Paper Award. Crypto Valley Conference 2025
