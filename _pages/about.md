@@ -20,7 +20,7 @@ My research spans blockchain infrastructure, decentralized applications, and the
 
 - **Threshold Cryptographic Protocols**. Efficient bootstrapping for threshold cryptosystems, with applications toward trustworthy asset management and user authentication (*IEEE SP* [26](https://eprint.iacr.org/2025/149), *ICDCS* [22](https://ieeexplore.ieee.org/abstract/document/9912190), *TDSC* [25b](https://ieeexplore.ieee.org/abstract/document/10807394), *TIFS* [25b](https://ieeexplore.ieee.org/abstract/document/11153573)).
 
-- **Decentralized Applications**. Designing practical, privacy-preserving, and economically rational dApps (*ICDCS* [20](https://ieeexplore.ieee.org/abstract/document/9355719)/[18](https://ieeexplore.ieee.org/abstract/document/8416350), *TPDS* [22](https://ieeexplore.ieee.org/abstract/document/9929262), *ESORICS* [21](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_17)/[20](https://link.springer.com/chapter/10.1007/978-3-030-59013-0_35), *CVC* [25](https://ieeexplore.ieee.org/abstract/document/11068849)—Best Paper Award).
+- **Decentralized Applications**. Designing practical, privacy-preserving, and economically rational dApps in the mutually distrustful P2P setting (*ICDCS* [20](https://ieeexplore.ieee.org/abstract/document/9355719)/[18](https://ieeexplore.ieee.org/abstract/document/8416350), *TPDS* [22](https://ieeexplore.ieee.org/abstract/document/9929262), *ESORICS* [21](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_17)/[20](https://link.springer.com/chapter/10.1007/978-3-030-59013-0_35), *CVC* [25](https://ieeexplore.ieee.org/abstract/document/11068849)—Best Paper Award).
  
 
 
