@@ -10,6 +10,11 @@ author_profile: true
 ## Conference Papers
 
 
+**[C19]** *GoSSamer: Lightweight and Linear-Communication Asynchronous (Dynamic Proactive) Secret Sharing and the Applications*  
+Xinxin Xing, Yizhong Liu, Boyang Liao, Jianwei Li, Bin Hu, Xun Lin, Yuan Lu, Tianwei Zhang  
+**IEEE S&P (Oakland) 2026** 
+
+
 
 **[C18]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*  
 Hanwen Feng, Yingzi Gao, Yuan Lu, Qiang Tang, Jing Xu  
