@@ -129,6 +129,12 @@ Yuan Lu, Qiang Tang, Guiling Wang
 
 
 
+**[J14]** *AionBFT: High-Throughput Asynchronous BFT Consensus with Even Faster Confirmation*  
+X Zhang, Y Lu, Z Ji, J Hu, S Xu, W Kong, J Liu  
+Blockchain: Research and Applications
+
+
+
 **[J13]** *Bootstrapping Trust across Web2 and Web3 Domains Using Publicly Verifiable Web Data*  
 Yuan Lu, Qiang Tang  
 The Paris Journal on AI & Digital Ethics 2025
