@@ -103,8 +103,11 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[NDSS’25]</strong> <em>Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <a href="https://eprint.iacr.org/2024/206" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
