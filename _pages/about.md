@@ -34,6 +34,8 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[Oakland’26]</strong> <em>Practical Asynchronous Distributed Key Reconfiguration and Its Applications</em>. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
 <div class="pub-badges">
+<span class="pub-badge badge-paper">Paper</span>
+<span class="pub-badge badge-code">Code</span>
 <span class="pub-badge badge-core">CORE A*</span>
 <span class="pub-badge badge-ccf">CCF A</span>
 </div>
