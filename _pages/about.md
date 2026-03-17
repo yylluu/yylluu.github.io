@@ -46,7 +46,7 @@ Many of my research results have been published in top-tier computer science ven
 </li>
 
 <li class="pub-entry">
-<strong>[Oakland’26]</strong> <em>GoSSamer: Lightweight and Linear-Communication Asynchronous (Dynamic Proactive) Secret Sharing and the Applications</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
+<strong>[Oakland’26]</strong> <em>GoSSamer: Lightweight and Linear-Communication Asynchronous (Dynamic Proactive) Secret Sharing and the Applications</em>. with Xinxin Xing, Yizhong Liu, Boyang Liao, Jianwei Li, Bin Hu, Xun Lin, Tianwei Zhang.
 <div class="pub-badges">
   <a href="https://eprint.iacr.org/2025/1516" target="_blank">
     <span class="pub-badge badge-paper">Paper</span>
@@ -57,7 +57,7 @@ Many of my research results have been published in top-tier computer science ven
 </li>
 
 <li class="pub-entry">
-<strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Xinxin Xing, Yizhong Liu, Boyang Liao, Jianwei Li, Bin Hu, Xun Lin, Tianwei Zhang.
+<strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
