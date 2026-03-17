@@ -78,8 +78,11 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[Security’25]</strong> <em>Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants</em>. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 <div class="pub-badges">
-    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong" target="_blank">
+  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong" target="_blank">
     <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <a href="https://zenodo.org/records/15870338" target="_blank">
+    <span class="pub-badge badge-code">Code</span>
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
@@ -105,6 +108,9 @@ Many of my research results have been published in top-tier computer science ven
 <div class="pub-badges">
   <a href="https://eprint.iacr.org/2024/206" target="_blank">
     <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <a href="https://zenodo.org/records/13594519" target="_blank">
+    <span class="pub-badge badge-code">Code</span>
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
