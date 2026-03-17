@@ -36,41 +36,46 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
+
 .pub-badge {
   display: inline-block;
-  width: 70px;          /* fixed width for all badges */
-  text-align: center;   /* center text */
-  padding: 2px 0;       /* vertical padding only */
+  width: 70px;          /* fixed width for alignment */
+  text-align: center;
+  padding: 2px 0;
   font-size: 0.72em;
   font-weight: 600;
   border-radius: 6px;
-  margin-left: 6px;
-  color: white; /* default text color for badges */
+  color: white;
 }
 
 /* CORE badges */
 .badge-core {
-  background-color: #3498db; /* light blue */
+  background-color: #3498db;
 }
- 
+
 /* CCF badges */
 .badge-ccf {
-  background-color: #f39c12; /* green */
+  background-color: #f39c12;
 }
 
 .pub-list {
   margin-top: 8px;
 }
-  
+
 .pub-entry {
-  margin-bottom: 1.2em;   /* space between publications */
-  line-height: 1.4em;     /* makes authors readable */
+  margin-bottom: 1.2em;
+  line-height: 1.4em;
 }
 
-.pub-entry .pub-badge {
-  margin-right: 0.0em;    /* spacing between badges */
+/* container controlling badge spacing */
+.pub-badges {
+  margin-top: 4px;
 }
-  
+
+.pub-badges .pub-badge + .pub-badge {
+  margin-left: 2px;   /* spacing between badges */
+}
+
 </style>
 
 
