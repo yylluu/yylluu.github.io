@@ -32,53 +32,82 @@ Many of my research results have been published in top-tier computer science ven
 <ul class="pub-list">
 
 <li class="pub-entry">
-  <strong>[Oakland’26]</strong> <em>Practical Asynchronous Distributed Key Reconfiguration and Its Applications</em>. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[Oakland’26]</strong> <em>Practical Asynchronous Distributed Key Reconfiguration and Its Applications</em>. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[CCS’25]</strong> <em>Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[CCS’25]</strong> <em>Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[Security’25]</strong> <em>Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants</em>. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[Security’25]</strong> <em>Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants</em>. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[Security’25]</strong> <em>Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience</em>. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[Security’25]</strong> <em>Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience</em>. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[NDSS’25]</strong> <em>Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[NDSS’25]</strong> <em>Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[CCS’22]</strong> <em>Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency</em>. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[CCS’22]</strong> <em>Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency</em>. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[CCS’22]</strong> <em>Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT</em>. with Zhenliang Lu, Qiang Tang.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[CCS’22]</strong> <em>Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT</em>. with Zhenliang Lu, Qiang Tang.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[NDSS’22]</strong> <em>Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice</em>. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
-  <span class="pub-badge badge-core">CORE A*</span> <span class="pub-badge badge-ccf">CCF A</span>
+<strong>[NDSS’22]</strong> <em>Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice</em>. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge badge-ccf">CCF A</span>
+</div>
 </li>
 
 <li class="pub-entry">
-  <strong>[PODC’20]</strong> <em>Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited</em>. with Zhenliang Lu, Qiang Tang, Guiling Wang.
-  <span class="pub-badge badge-core">CORE A*</span>
+<strong>[PODC’20]</strong> <em>Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited</em>. with Zhenliang Lu, Qiang Tang, Guiling Wang.
+<div class="pub-badges">
+<span class="pub-badge badge-core">CORE A*</span>
+</div>
 </li>
 
 </ul>
