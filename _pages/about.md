@@ -112,7 +112,10 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[PODC’20]</strong> <em>Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited</em>. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
+  <a href="https://eprint.iacr.org/2020/842" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
 </div>
 </li>
 
