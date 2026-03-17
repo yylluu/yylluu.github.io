@@ -48,16 +48,19 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
 <li class="pub-entry">
 <strong>[CCS’25]</strong> <em>Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <a href="https://dl.acm.org/doi/10.1145/3719027.3765132" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
