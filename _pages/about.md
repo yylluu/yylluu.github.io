@@ -31,30 +31,39 @@ Many of my research results have been published in top-tier computer science ven
 
 - **[Oakland’26]** *Practical Asynchronous Distributed Key Reconfiguration and Its Applications*. with Hanwen Feng, Yingzi Gao, Qiang Tang, Jing Xu.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
 
 - **[Security’26]** *Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead*. with Yizhong Liu, Boyu Zhao, Yuxuan Hu, et al.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
 
 - **[CCS’25]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
 
 - **[Security’25]** *Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants*. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
 
 - **[Security’25]** *Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience*. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
 
 - **[NDSS’25]** *Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead*. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
   
 - **[CCS’22]** *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
   
 - **[CCS’22]** *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*. with Zhenliang Lu, Qiang Tang.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
   
 - **[NDSS’22]** *Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice*. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 <span class="pub-badge badge-core">CORE A*</span>
+<span class="pub-badge ccf-core">CCF A</span>
 
 - **[PODC’20]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*. with Zhenliang Lu, Qiang Tang, Guiling Wang.
 <span class="pub-badge badge-core">CORE A*</span>
