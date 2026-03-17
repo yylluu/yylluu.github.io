@@ -53,7 +53,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
-  <span class="pub-badge badge-top">CSranking Top</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -62,6 +62,7 @@ Many of my research results have been published in top-tier computer science ven
 <div class="pub-badges">
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -72,6 +73,7 @@ Many of my research results have been published in top-tier computer science ven
     <span class="pub-badge badge-paper">Paper</span>
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-top">CSranking</span>
   <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
@@ -87,6 +89,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -101,6 +104,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -115,6 +119,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -129,6 +134,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -143,6 +149,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
@@ -157,6 +164,7 @@ Many of my research results have been published in top-tier computer science ven
   </a>
   <span class="pub-badge badge-core">CORE A*</span>
   <span class="pub-badge badge-ccf">CCF A</span>
+  <span class="pub-badge badge-top">CSranking</span>
 </div>
 </li>
 
