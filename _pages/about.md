@@ -75,7 +75,7 @@ Many of my research results have been published in top-tier computer science ven
 <strong>[Security’25]</strong> <em>Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants</em>. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 <div class="pub-badges">
   <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
-  <a href="https://zenodo.org/records/15870338" target="_blank"><span class="pub-badge badge-code">Code</span></a>
+  <!-- <a href="https://zenodo.org/records/15870338" target="_blank"><span class="pub-badge badge-code">Code</span></a> -->
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
   <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
   <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSranking</span></a>
@@ -97,7 +97,7 @@ Many of my research results have been published in top-tier computer science ven
 <strong>[NDSS’25]</strong> <em>Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
   <a href="https://eprint.iacr.org/2024/206" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
-  <a href="https://zenodo.org/records/13594519" target="_blank"><span class="pub-badge badge-code">Code</span></a>
+  <!-- <a href="https://zenodo.org/records/13594519" target="_blank"><span class="pub-badge badge-code">Code</span></a> -->
   <a href="https://portal.core.edu.au/conf-ranks/1840/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
   <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
   <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSranking</span></a>
