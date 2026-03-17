@@ -78,16 +78,25 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[Security’25]</strong> <em>Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants</em>. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+    <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
 <li class="pub-entry">
 <strong>[Security’25]</strong> <em>Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience</em>. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/su-yuan" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <a href="https://github.com/dcy456/Dumbo-MPC" target="_blank">
+    <span class="pub-badge badge-code">Code</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
@@ -102,24 +111,39 @@ Many of my research results have been published in top-tier computer science ven
 <li class="pub-entry">
 <strong>[CCS’22]</strong> <em>Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency</em>. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <a href="https://arxiv.org/abs/2209.00750" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <a href="https://github.com/fascy/Dumbo_NG" target="_blank">
+    <span class="pub-badge badge-code">Code</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
 <li class="pub-entry">
 <strong>[CCS’22]</strong> <em>Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT</em>. with Zhenliang Lu, Qiang Tang.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <a href="https://arxiv.org/abs/2103.09425" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <a href="https://github.com/yylluu/BDT" target="_blank">
+    <span class="pub-badge badge-code">Code</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
 <li class="pub-entry">
 <strong>[NDSS’22]</strong> <em>Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice</em>. with Bingyong Guo, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
 <div class="pub-badges">
-<span class="pub-badge badge-core">CORE A*</span>
-<span class="pub-badge badge-ccf">CCF A</span>
+  <a href="https://eprint.iacr.org/2022/027" target="_blank">
+    <span class="pub-badge badge-paper">Paper</span>
+  </a>
+  <span class="pub-badge badge-core">CORE A*</span>
+  <span class="pub-badge badge-ccf">CCF A</span>
 </div>
 </li>
 
