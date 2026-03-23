@@ -37,8 +37,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://eprint.iacr.org/2025/149" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://github.com/fascy/adkr" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/750/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -47,8 +47,8 @@ Many of my research results have been published in top-tier computer science ven
 <div class="pub-badges">
   <a href="https://eprint.iacr.org/2025/1516" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/750/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -56,8 +56,8 @@ Many of my research results have been published in top-tier computer science ven
 <strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -66,8 +66,8 @@ Many of my research results have been published in top-tier computer science ven
 <div class="pub-badges">
   <a href="https://dl.acm.org/doi/10.1145/3719027.3765132" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/12/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -77,8 +77,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <!-- <a href="https://zenodo.org/records/15870338" target="_blank"><span class="pub-badge badge-code">Code</span></a> -->
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -88,8 +88,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/su-yuan" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://github.com/dcy456/Dumbo-MPC" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -99,8 +99,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://eprint.iacr.org/2024/206" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <!-- <a href="https://zenodo.org/records/13594519" target="_blank"><span class="pub-badge badge-code">Code</span></a> -->
   <a href="https://portal.core.edu.au/conf-ranks/1840/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -110,8 +110,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://arxiv.org/abs/2209.00750" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://github.com/fascy/Dumbo_NG" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/12/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -121,8 +121,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://arxiv.org/abs/2103.09425" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://github.com/yylluu/BDT" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/12/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
@@ -132,8 +132,8 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://eprint.iacr.org/2022/027" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>  
   <a href="https://github.com/fascy/Dumbo_NG" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/1840/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a>
+<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
+  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
