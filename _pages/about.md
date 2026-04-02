@@ -152,7 +152,7 @@ Services
 
 - **PC for conferences**: CCS 26/25/24, FC 26/25, CVC 25, APKC 21, PST 20, etc.
 
-- **Leadership for conferences**: AI+blockchain track of IEEE ICDLT 25, Posters & demos track of SecureComm 26.
+- **Leadership for conferences**: AI+blockchain track chair of IEEE ICDLT 25, Posters & demos track chair of SecureComm 26.
 
 - **Editorship for journals**: AE of IEEE Transactions on Information Forensics and Security (TIFS, 2026-), young AE of ELSP Blockchain (2023-).
 
