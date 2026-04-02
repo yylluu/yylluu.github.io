@@ -150,7 +150,7 @@ Many of my research results have been published in top-tier computer science ven
 Services
 ======
 
-- **PC for conferences**: CCS 26/25/24, FC 26/25, PST 20, APKC 21, etc.
+- **PC for conferences**: CCS 26/25/24, FC 26/25, CVC 25, APKC 21, PST 20, etc.
 
 - **Leadership for conferences**: AI+blockchain track of IEEE ICDLT 25, Posters & demos track of SecureComm 26.
 
