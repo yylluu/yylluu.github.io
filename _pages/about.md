@@ -152,9 +152,9 @@ Services
 
 - **PC for conferences**: CCS 26/25/24, FC 26/25, PST 20, APKC 21, etc.
 
-- **Leadership for conferences**: AI+blockchain track of IEEE ICDLT 25, Posters \& demos track of SecureComm 26.
+- **Leadership for conferences**: AI+blockchain track of IEEE ICDLT 25, Posters & demos track of SecureComm 26.
 
-- **Editorship for journals**: AE of IEEE Transactions on Information Forensics and Security (2026-), young AE of ELSP Blockchain (2023-).
+- **Editorship for journals**: AE of IEEE Transactions on Information Forensics and Security (TIFS, 2026-), young AE of ELSP Blockchain (2023-).
 
 - **Referee for journals**: Distributed Computing, IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
