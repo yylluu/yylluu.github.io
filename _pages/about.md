@@ -154,7 +154,7 @@ Services
 
 - **Leadership for conferences**: AI+blockchain track chair of IEEE ICDLT 25, Posters & demos track chair of SecureComm 26.
 
-- **Editorship for journals**: AE of IEEE Transactions on Information Forensics and Security (TIFS, 2026-), young AE of ELSP Blockchain (2023-).
+- **Editorship for journals**: AE of IEEE Transactions on Information Forensics and Security (TIFS, 2026-), early-career editor of ELSP Blockchain (2023-).
 
 - **Referee for journals**: Distributed Computing, IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE TMC, IEEE TVT, ACM Computing Surveys, IET Information Security, Journal of Parallel and Distributed Computing, etc. 
 
