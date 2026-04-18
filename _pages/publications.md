@@ -128,10 +128,15 @@ Yuan Lu, Qiang Tang, Guiling Wang
 ## Journal Papers  
 
 
+**[J15]** *Aurelia: Dynamic asynchronous BFT with bandwidth-efficient bootstrapping*  
+Yuguo Liu, Xiaoxi Mo, Yingzi Gao, Yuan Lu  
+High-Confidence Computing 2026
+
+
 
 **[J14]** *AionBFT: High-Throughput Asynchronous BFT Consensus with Even Faster Confirmation*  
 X Zhang, Y Lu, Z Ji, J Hu, S Xu, W Kong, J Liu  
-Blockchain: Research and Applications
+Blockchain: Research and Applications 2026
 
 
 
