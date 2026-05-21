@@ -54,7 +54,8 @@ Many of my research results have been published in top-tier computer science ven
 
 <li class="pub-entry">
 <strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
-<div class="pub-badges">
+<div class="pub-badges"> 
+  <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-yizhong" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
 <!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
   <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
