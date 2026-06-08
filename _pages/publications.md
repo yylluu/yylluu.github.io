@@ -89,7 +89,7 @@ Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang
 
 **[C7]** *Efficient Asynchronous Byzantine Agreement without Private Setups*  
 Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang  
-**ICDCS 2022**
+**IEEE ICDCS 2022**
 
 
 
@@ -119,13 +119,13 @@ Yuan Lu, Zhenliang Lu, Qiang Tang, Guiling Wang
 
 **[C2]** *Dragoon: Private Decentralized Human Intelligence Tasks Made Practical*  
 Yuan Lu, Qiang Tang, Guiling Wang  
-**ICDCS 2020**
+**IEEE ICDCS 2020**
 
 
 
 **[C1]** *ZebraLancer: Private and Anonymous Crowdsourcing System atop Open Blockchain*  
 Yuan Lu, Qiang Tang, Guiling Wang  
-**ICDCS 2018**
+**IEEE ICDCS 2018**
 
 
 
