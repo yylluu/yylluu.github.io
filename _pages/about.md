@@ -37,51 +37,46 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://eprint.iacr.org/2025/149" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://github.com/fascy/adkr" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/750/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--  <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
+<!-- 
 <li class="pub-entry">
 <strong>[Oakland’26]</strong> <em>GoSSamer: Lightweight and Linear-Communication Asynchronous (Dynamic Proactive) Secret Sharing and the Applications</em>. with Xinxin Xing, Yizhong Liu, Boyang Liao, Jianwei Li, Bin Hu, Xun Lin, Tianwei Zhang.
 <div class="pub-badges">
   <a href="https://eprint.iacr.org/2025/1516" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/750/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
+
 
 <li class="pub-entry">
 <strong>[Security’26]</strong> <em>Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges"> 
   <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-yizhong" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
+
 
 <li class="pub-entry">
 <strong>[CCS’25]</strong> <em>Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
   <a href="https://dl.acm.org/doi/10.1145/3719027.3765132" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/12/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
+
 
 <li class="pub-entry">
 <strong>[Security’25]</strong> <em>Aion: Robust and Efficient Multi-Round Single-Mask Secure Aggregation Against Malicious Participants</em>. with Yizhong Liu, Zixiao Jia, Zian Jin, et al.
 <div class="pub-badges">
   <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
-  <!-- <a href="https://zenodo.org/records/15870338" target="_blank"><span class="pub-badge badge-code">Code</span></a> -->
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
+-->
+
 
 <li class="pub-entry">
 <strong>[Security’25]</strong> <em>Dumbo-MPC: Efficient Asynchronous MPC with Optimal Resilience</em>. with Yuan Su, Jiliang Li, Chengyi Dong, Yuyi Wang, Qiang Tang.
@@ -89,21 +84,18 @@ Many of my research results have been published in top-tier computer science ven
   <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/su-yuan" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
   <a href="https://github.com/dcy456/Dumbo-MPC" target="_blank"><span class="pub-badge badge-code">Code</span></a>
   <a href="https://portal.core.edu.au/conf-ranks/1841/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
 
+<!-- 
 <li class="pub-entry">
 <strong>[NDSS’25]</strong> <em>Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead</em>. with Yizhong Liu, Andi Liu, Zhuocheng Pan, et al.
 <div class="pub-badges">
   <a href="https://eprint.iacr.org/2024/206" target="_blank"><span class="pub-badge badge-paper">Paper</span></a>
-  <!-- <a href="https://zenodo.org/records/13594519" target="_blank"><span class="pub-badge badge-code">Code</span></a> -->
   <a href="https://portal.core.edu.au/conf-ranks/1840/" target="_blank"><span class="pub-badge badge-core">CORE A*</span></a>
-<!--    <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml" target="_blank"><span class="pub-badge badge-ccf">CCF A</span></a>
-  <a href="https://csrankings.org/" target="_blank"><span class="pub-badge badge-top">CSrankings Top</span></a> -->
 </div>
 </li>
+-->
 
 <li class="pub-entry">
 <strong>[CCS’22]</strong> <em>Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency</em>. with Yingzi Gao, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang.
