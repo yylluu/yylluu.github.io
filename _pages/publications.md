@@ -77,13 +77,13 @@ International Conference on the Frontiers of Robotics and Software Engineering 2
 
 **[C9]** *Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT*  
 Yuan Lu, Zhenliang Lu, Qiang Tang  
-**CCS 2022**
+**ACM CCS 2022**
 
 
 
 **[C8]** *Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency*  
 Yingzi Gao, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, Zhenfeng Zhang  
-**CCS 2022**
+**ACM CCS 2022**
 
 
 
@@ -113,7 +113,7 @@ Yuan Lu, Qiang Tang, Guiling Wang
 
 **[C3]** *Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited*  
 Yuan Lu, Zhenliang Lu, Qiang Tang, Guiling Wang  
-**PODC 2020**
+**ACM PODC 2020**
 
 
 
