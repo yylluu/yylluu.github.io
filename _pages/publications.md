@@ -9,9 +9,14 @@ author_profile: true
 
 ## Conference Papers
 
+**[C20]** *Kairos: Efficient High-Threshold Asynchronous Distributed Key Generation from Lightweight Cryptography*  
+Xinxin Xing, Yizhong Liu, Zifan Li, Jianwei Liu, Yudi Yang, Yuan Lu, Song Bian, Zhenyu Guan, Tianwei Zhang  
+**ACM CCS 2026** 
+
+
 
 **[C19]** *GoSSamer: Lightweight and Linear-Communication Asynchronous (Dynamic Proactive) Secret Sharing and the Applications*  
-Xinxin Xing, Yizhong Liu, Boyang Liao, Jianwei Li, Bin Hu, Xun Lin, Yuan Lu, Tianwei Zhang  
+Xinxin Xing, Yizhong Liu, Boyang Liao, Jianwei Liu, Bin Hu, Xun Lin, Yuan Lu, Tianwei Zhang  
 **IEEE S&P (Oakland) 2026** 
 
 
