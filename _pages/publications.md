@@ -193,21 +193,21 @@ MDPI Sensors 2024
 
 
 
-**[J5]** *Blockchain-Based P2P Content Delivery with Monetary Incentivization and Fairness Guarantee*  
-Songlin He, Yuan Lu, Qiang Tang, Guiling Wang, Chase Wu  
-**IEEE TPDS 2023**  
-
-
-
-**[J4]** *Escaping from Consensus: Instantly Redactable Blockchain Protocols in Permissionless Setting*  
-Xinyu Li, Jing Xu, Lingyuan Yin, Yuan Lu, Qiang Tang, Zhenfeng Zhang  
-**IEEE TDSC 2023**
-
-
-
-**[J3]** *Neural Differential Distinguishers for GIFT-128 and ASCON*  
+**[J5]** *Neural Differential Distinguishers for GIFT-128 and ASCON*  
 Dongsu Shen, Yijian Song, Yuan Lu, Saiqin Long, Shujuan Tian  
 Journal of Information Security and Applications 2023
+
+
+
+**[J4]** *Blockchain-Based P2P Content Delivery with Monetary Incentivization and Fairness Guarantee*  
+Songlin He, Yuan Lu, Qiang Tang, Guiling Wang, Chase Wu  
+**IEEE TPDS 2022**  
+
+
+
+**[J3]** *Escaping from Consensus: Instantly Redactable Blockchain Protocols in Permissionless Setting*  
+Xinyu Li, Jing Xu, Lingyuan Yin, Yuan Lu, Qiang Tang, Zhenfeng Zhang  
+**IEEE TDSC 2022**
 
 
 
