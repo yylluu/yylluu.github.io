@@ -47,7 +47,7 @@ Y. Liu, Z. Jia, Z. Jin, X. Chen, S. Bian, R. Xu, D. Li, J. Liu, Y. Lu
 
 **[C14]** *Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience*  
 Y. Liu, A. Liu, Z. Pan, Y. Hu, J. Liu, S. Bian, Y. Lu, Z. Guan, D. Li, M. Qiu  
-**CCS 2025**
+**ACM CCS 2025**
 
 
 
@@ -199,21 +199,21 @@ Songlin He, Yuan Lu, Qiang Tang, Guiling Wang, Chase Wu
 
 
 
-**[J4]** *Neural Differential Distinguishers for GIFT-128 and ASCON*  
+**[J4]** *Escaping from Consensus: Instantly Redactable Blockchain Protocols in Permissionless Setting*  
+Xinyu Li, Jing Xu, Lingyuan Yin, Yuan Lu, Qiang Tang, Zhenfeng Zhang  
+**IEEE TDSC 2023**
+
+
+
+**[J3]** *Neural Differential Distinguishers for GIFT-128 and ASCON*  
 Dongsu Shen, Yijian Song, Yuan Lu, Saiqin Long, Shujuan Tian  
 Journal of Information Security and Applications 2023
 
 
 
-**[J3]** *A Probabilistic Proof-of-Stake Protocol with Fast Confirmation*  
+**[J2]** *A Probabilistic Proof-of-Stake Protocol with Fast Confirmation*  
 Hanyue Dou, Lingyuan Yin, Yuan Lu, Jing Xu  
 Journal of Information Security and Applications 2022
-
-
-
-**[J2]** *Escaping from Consensus: Instantly Redactable Blockchain Protocols in Permissionless Setting*  
-Xinyu Li, Jing Xu, Lingyuan Yin, Yuan Lu, Qiang Tang, Zhenfeng Zhang  
-**IEEE TDSC 2022**
 
 
 
