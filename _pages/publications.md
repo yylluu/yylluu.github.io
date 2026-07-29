@@ -134,7 +134,7 @@ Yuan Lu, Qiang Tang, Guiling Wang
 
 
 **[J16]** *Single-Round Robust Secret-Shared Shuffling with Application to Deployable Shuffled Differential Privacy*  
-Wei Tang, Yuan Lu, Chao Jin, Jiliang Li， Khin Mi Mi Aung  
+Wei Tang, Yuan Lu, Chao Jin, Jiliang Li, Khin Mi Mi Aung  
 **IEEE TDSC 2026**  
 
 
