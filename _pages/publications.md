@@ -133,6 +133,12 @@ Yuan Lu, Qiang Tang, Guiling Wang
 ## Journal Papers  
 
 
+**[J16]** *Single-Round Robust Secret-Shared Shuffling with Application to Deployable Shuffled Differential Privacy*  
+Wei Tang, Yuan Lu, Chao Jin, Jiliang Li， Khin Mi Mi Aung  
+**IEEE TDSC 2026**  
+
+
+
 **[J15]** *Aurelia: Dynamic asynchronous BFT with bandwidth-efficient bootstrapping*  
 Yuguo Liu, Xiaoxi Mo, Yingzi Gao, Yuan Lu  
 High-Confidence Computing 2026
