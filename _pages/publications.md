@@ -9,6 +9,12 @@ author_profile: true
 
 ## Conference Papers
 
+**[C21]** *On the (Im)possibility of Asynchronous Proactive Secret Sharing*  
+Erica Blum, Yingzi Gao, Julian Loss, Yuan Lu, Zhenliang Lu, Qiang Tang  
+**Asiacrypt 2026** 
+
+
+
 **[C20]** *Kairos: Efficient High-Threshold Asynchronous Distributed Key Generation from Lightweight Cryptography*  
 Xinxin Xing, Yizhong Liu, Zifan Li, Jianwei Liu, Yudi Yang, Yuan Lu, Song Bian, Zhenyu Guan, Tianwei Zhang  
 **ACM CCS 2026** 
