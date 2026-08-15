@@ -238,6 +238,10 @@ Journal of Database Management 2021
 ## Workshop Papers  
 
 
+**[W2]** *Retrofitting Post-Quantum End-to-End Security via Auditable Middleware for Legacy Medical Devices*  
+Yuan Lu, Chao Jin, Khin Mi Mi Aung  
+IN-CYPHER Conference 2026
+
 
 **[W1]** *On Enabling Machine Learning Tasks atop Public Blockchains: A Crowdsourcing Approach*  
 Yuan Lu, Qiang Tang, Guiling Wang  
