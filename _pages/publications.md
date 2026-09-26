@@ -9,9 +9,21 @@ author_profile: true
 
 ## Conference Papers
 
-**[C21]** *On the (Im)possibility of Asynchronous Proactive Secret Sharing*  
-Erica Blum, Yingzi Gao, Julian Loss, Yuan Lu, Zhenliang Lu, Qiang Tang  
+**[C23]** *Continuum: Concretely Efficient Asynchronous Dynamic MPC with Guaranteed Output Delivery*  
+Wenxuan Yu, Minghui Xu, Yuan Lu, Yingzi Gao, Xiuzhen Cheng  
+**NDSS 2027** 
+
+
+
+**[C22]** *On the (Im)possibility of Asynchronous Proactive Secret Sharing*  
+Y. Liu, A. Liu, Y. Hu, J. Dong, J. Liu, B. Zhao, Y. Lu, Z. Pan, M. Qiu, D. Li, Z. Guan
 **Asiacrypt 2026** 
+
+
+
+**[C21]** *Areopagus: Asynchronous Sharding Blockchain Tolerating Corrupted Shards with Optimized Overhead*  
+Xinxin Xing, Yizhong Liu, Zifan Li, Jianwei Liu, Yudi Yang, Yuan Lu, Song Bian, Zhenyu Guan, Tianwei Zhang  
+**ACM CCS 2026** 
 
 
 
