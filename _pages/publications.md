@@ -16,7 +16,7 @@ Wenxuan Yu, Minghui Xu, Yuan Lu, Yingzi Gao, Xiuzhen Cheng
 
 
 **[C22]** *On the (Im)possibility of Asynchronous Proactive Secret Sharing*  
-Y. Liu, A. Liu, Y. Hu, J. Dong, J. Liu, B. Zhao, Y. Lu, Z. Pan, M. Qiu, D. Li, Z. Guan
+Y. Liu, A. Liu, Y. Hu, J. Dong, J. Liu, B. Zhao, Y. Lu, Z. Pan, M. Qiu, D. Li, Z. Guan  
 **Asiacrypt 2026** 
 
 
