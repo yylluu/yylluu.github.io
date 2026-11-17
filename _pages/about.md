@@ -12,7 +12,7 @@ Hi, welcome to the homepage of Yuan Lu, Ph.D. (simplified Chinese 路远 or trad
 Research Interests
 ======
 
-I am particularly interested in developing efficient and secure foundations for trustworthy networked systems, with an emphasis on improving their robustness, privacy, economic fairness, and resilience to massive censorship. My recent research interests include:
+My research focuses on building secure foundations for trustworthy networked systems through security-driven yet practical solutions that enhance their robustness, collaborative privacy, and economic fairness. My recent research interests include:
 
 - **Consensus**. Scalable and robust Layer-1 blockchain infrastructure (*CCS* [26a]()/[25](https://dl.acm.org/doi/abs/10.1145/3719027.3765132)/[22a](https://dl.acm.org/doi/abs/10.1145/3548606.3559346)/[22b](https://dl.acm.org/doi/abs/10.1145/3548606.3559379), *NDSS* [25](https://eprint.iacr.org/2024/206)/[22](https://eprint.iacr.org/2022/27), *USENIX Security* [26](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-yizhong), *PODC* [20](https://dl.acm.org/doi/abs/10.1145/3382734.3405707), *TDSC* [25a](https://ieeexplore.ieee.org/abstract/document/11002681)/[22](https://ieeexplore.ieee.org/abstract/document/9913698), *TIFS* [25a](https://ieeexplore.ieee.org/abstract/document/11014212)/[24](https://ieeexplore.ieee.org/abstract/document/10415090)).
 
