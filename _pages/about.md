@@ -18,9 +18,9 @@ My research focuses on building secure foundations for trustworthy networked sys
 
 - **Secure Multi-Party Computation**. Privacy-preserving distributed systems, e.g., secure federated learning, mixing nets (*NDSS* [27](), *USENIX Security* [25a](https://www.usenix.org/conference/usenixsecurity25/presentation/su-yuan)/[25b](https://www.usenix.org/conference/usenixsecurity25/presentation/liu-yizhong), *TDSC* [26]()).
 
-- **Threshold Cryptography**. Protocols for secure distributed key management (*Asiacrypt* [26](https://eprint.iacr.org/2026/2018), *CCS* [26b](), *IEEE S&P* [26a](https://eprint.iacr.org/2025/149)/[26b](https://eprint.iacr.org/2025/1516), *ICDCS* [22](https://ieeexplore.ieee.org/abstract/document/9912190), *TDSC* [25b](https://ieeexplore.ieee.org/abstract/document/10807394)).
+- **Threshold Key Management**. Robust protocols for distributed key escrow systems (*Asiacrypt* [26](https://eprint.iacr.org/2026/2018), *CCS* [26b](), *IEEE S&P* [26a](https://eprint.iacr.org/2025/149)/[26b](https://eprint.iacr.org/2025/1516), *ICDCS* [22](https://ieeexplore.ieee.org/abstract/document/9912190), *TDSC* [25b](https://ieeexplore.ieee.org/abstract/document/10807394)).
 
-- **Identification and Authentication**. Usable yet secure schemes for identifying and authenticating end-users and endpoints (*AsiaCCS* [27](), *TIFS* [26](), *TIFS* [25b](https://ieeexplore.ieee.org/abstract/document/11153573)).
+- **Identification & Authentication**. Usable yet secure schemes to identify and authenticate end-users and/or endpoints (*AsiaCCS* [27](), *TIFS* [26](), *TIFS* [25b](https://ieeexplore.ieee.org/abstract/document/11153573)).
 
 - **Decentralized Applications**. Privacy-preserving and economically rational dApps in the P2P setting (*ICDCS* [20](https://ieeexplore.ieee.org/abstract/document/9355719)/[18](https://ieeexplore.ieee.org/abstract/document/8416350), *TPDS* [22](https://ieeexplore.ieee.org/abstract/document/9929262), *ESORICS* [21](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_17)/[20](https://link.springer.com/chapter/10.1007/978-3-030-59013-0_35), *CVC* [25](https://ieeexplore.ieee.org/abstract/document/11068849)—Best Paper Award).
  
